@@ -15,7 +15,10 @@ let output_dir_arg =
 let run_generate input_file output_dir =
   let events = Events.read_events input_file in
   let html_output = Html.generate events in
-  Generate.write_to_file output_dir "events.html" html_output
+  let cal_output = Cal.generate events in
+  Generate.write_to_file output_dir "events.html" html_output;
+  Generate.write_to_file output_dir "events.ics" cal_output;
+  ()
 
 let generate_output_cmd =
   let doc = "Generate HTML, RSS and iCal output from the events list" in

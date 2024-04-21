@@ -1,4 +1,4 @@
 (library
  (name delhi_events)
- (libraries yojson tyxml icalendar unix)
+ (libraries yojson tyxml icalendar unix ptime ptime.clock.os)
  (preprocess (pps ppx_deriving_yojson)))
