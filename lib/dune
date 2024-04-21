@@ -1,0 +1,3 @@
+(library
+ (name delhi_events)
+ (libraries yojson tyxml icalendar unix))

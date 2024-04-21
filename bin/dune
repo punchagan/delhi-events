@@ -1,0 +1,4 @@
+(executable
+ (public_name delhi_events)
+ (name main)
+ (libraries delhi_events yojson tyxml cmdliner))
