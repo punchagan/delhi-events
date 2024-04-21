@@ -14,7 +14,7 @@ let output_dir_arg =
 
 let run_generate input_file output_dir =
   let events = Events.read_events input_file in
-  let html_output = Generate.generate_html events in
+  let html_output = Html.generate events in
   Generate.write_to_file output_dir "events.html" html_output
 
 let generate_output_cmd =
