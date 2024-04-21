@@ -13,6 +13,7 @@ depends: [
   "ocaml"
   "dune" {>= "3.15"}
   "yojson"
+  "ppx_deriving_yojson"
   "tyxml"
   "icalendar"
   "odoc" {with-doc}

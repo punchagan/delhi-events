@@ -19,7 +19,7 @@
  (name delhi_events)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune yojson tyxml icalendar)
+ (depends ocaml dune yojson ppx_deriving_yojson tyxml icalendar )
  (tags
   (topics "to describe" your project)))
 

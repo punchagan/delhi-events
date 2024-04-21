@@ -1,36 +1,26 @@
-open Yojson.Basic.Util
 open Tyxml.Html
 
-let rec format_datetime iso_string =
-  match Ptime.of_rfc3339 iso_string ~strict:false with
-  | Ok (time, _, _) ->
-      let year, month, day = Ptime.to_date time in
-      let time_str = Ptime.to_rfc3339 ~tz_offset_s:0 time in
-      Printf.sprintf "%04d-%02d-%02d %s" year month day
-        (String.sub time_str 11 5)
-  | Error _ ->
-      (* Try adding Z for timestamps that are missing TZ info *)
-      if String.ends_with ~suffix:"Z" iso_string then iso_string
-      else format_datetime @@ iso_string ^ "Z"
+let format_datetime t =
+  let year, month, day = Ptime.to_date t in
+  let time_str = Ptime.to_rfc3339 ~tz_offset_s:0 t in
+  Printf.sprintf "%04d-%02d-%02d %s" year month day (String.sub time_str 11 5)
 
-let event_to_html event =
-  let title = event |> member "title" |> to_string in
-  let description = event |> member "description" |> to_string in
-  let url = event |> member "url" |> to_string in
-  let venue = event |> member "venue" |> to_string in
-  let start_time = event |> member "start" |> to_string |> format_datetime in
-  let end_time = event |> member "end" |> to_string |> format_datetime in
+let event_to_html (event : Events.event) =
+  let start_time = format_datetime event.start_time in
+  let time =
+    match event.end_time with
+    | Some t -> start_time ^ " — " ^ format_datetime t
+    | None -> start_time
+  in
   div
     ~a:[ a_class [ "event-card" ] ]
     [
       a
-        ~a:[ a_href url; a_class [ "event-title-link" ] ]
-        [ h2 ~a:[ a_class [ "event-title" ] ] [ txt title ] ];
-      p ~a:[ a_class [ "event-description" ] ] [ txt description ];
-      p ~a:[ a_class [ "event-venue" ] ] [ txt ("Venue: " ^ venue) ];
-      p
-        ~a:[ a_class [ "event-time" ] ]
-        [ txt ("Time: " ^ start_time ^ " — " ^ end_time) ];
+        ~a:[ a_href event.url; a_class [ "event-title-link" ] ]
+        [ h2 ~a:[ a_class [ "event-title" ] ] [ txt event.title ] ];
+      p ~a:[ a_class [ "event-description" ] ] [ txt event.description ];
+      p ~a:[ a_class [ "event-venue" ] ] [ txt ("Venue: " ^ event.venue) ];
+      p ~a:[ a_class [ "event-time" ] ] [ txt ("Time: " ^ time) ];
     ]
 
 let generate_html events =
