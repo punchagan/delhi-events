@@ -22,6 +22,7 @@ type event = {
   title : string;
   description : string;
   url : string;
+  (* FIXME: Split venue name and address *)
   venue : string;
   start_time : datetime; [@key "start"]
   end_time : datetime option; [@default None] [@key "end"]

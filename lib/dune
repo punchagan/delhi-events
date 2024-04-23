@@ -1,4 +1,5 @@
 (library
  (name delhi_events)
- (libraries yojson tyxml icalendar unix ptime ptime.clock.os)
+ (libraries
+   yojson tyxml icalendar unix ptime ptime.clock.os eio cohttp-eio eio_main tls-eio mirage-crypto-rng-eio lambdasoup)
  (preprocess (pps ppx_deriving_yojson)))

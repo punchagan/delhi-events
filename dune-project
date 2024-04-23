@@ -19,7 +19,19 @@
  (name delhi_events)
  (synopsis "A short synopsis")
  (description "A longer description")
- (depends ocaml dune yojson ppx_deriving_yojson tyxml icalendar )
+ (depends
+   ocaml
+   dune
+   yojson
+   ppx_deriving_yojson
+   tyxml
+   icalendar
+   (eio (>= 1.0))
+   eio_main
+   cohttp-eio
+   lambdasoup
+   tls-eio
+   mirage-crypto-rng-eio)
  (tags
   (topics "to describe" your project)))
 

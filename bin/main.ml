@@ -20,6 +20,14 @@ let generate_output_cmd =
   in
   Cmd.v info term
 
+let fetch_events_cmd =
+  let doc = "Fetch events and update the event file" in
+  let term = Term.(const Fetch.run $ input_arg) in
+  let info =
+    Cmd.info "fetch" ~doc ~sdocs:"COMMON OPTIONS" ~exits:Cmd.Exit.defaults
+  in
+  Cmd.v info term
+
 let default_cmd =
   let doc = "Generate event pages from a JSON file" in
   let term = Term.(ret (const (fun _ -> `Help (`Pager, None)) $ const ())) in
@@ -27,6 +35,6 @@ let default_cmd =
     Cmd.info "generate_events" ~doc ~sdocs:"COMMON OPTIONS"
       ~exits:Cmd.Exit.defaults
   in
-  Cmd.group ~default:term info [ generate_output_cmd ]
+  Cmd.group ~default:term info [ generate_output_cmd; fetch_events_cmd ]
 
 let () = Cmd.eval default_cmd |> exit
