@@ -127,11 +127,13 @@ let run events_db =
       urls
   in
   Fiber.all requests;
-  (* FIXME: Sort events in reverse chronological order *)
   (* FIXME: Filter old events? Probably in the generation phase? *)
   let events_json =
-    !events |> List.concat |> List.map Events.event_to_yojson |> fun es ->
-    `Assoc [ ("events", `List es) ]
+    !events |> List.concat
+    |> List.sort (fun (a : Events.event) b ->
+           Stdlib.compare b.start_time a.start_time)
+    |> List.map Events.event_to_yojson
+    |> fun es -> `Assoc [ ("events", `List es) ]
   in
   let chan = open_out events_db in
   Yojson.Safe.pretty_to_channel chan events_json;
