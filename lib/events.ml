@@ -44,5 +44,6 @@ let read_events path =
 
 let venue event =
   match event.venue_address with
-  | Some address -> Printf.sprintf "Venue: %s, %s" event.venue_name address
+  | Some address when address <> "" ->
+      Printf.sprintf "Venue: %s, %s" event.venue_name address
   | _ -> Printf.sprintf "Venue: %s" event.venue_name
