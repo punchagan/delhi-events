@@ -5,7 +5,8 @@
       "title": "Event 1",
       "description": "This is event 1",
       "start": "2023-03-01T15:00:00",
-      "venue": "Conference Hall",
+      "venue_name": "Conference Hall",
+      "venue_address": "Sector 12, Gurugram",
       "location": {
         "latitude": 37.7749,
         "longitude": -122.4194
@@ -18,7 +19,8 @@
       "description": "This is event 2",
       "start": "2023-03-02T10:00:00",
       "end": "2023-03-02T12:00:00",
-      "venue": "Theater",
+      "venue_name": "Theater",
+      "venue_address": "Sector 8, Noida",
       "location": {
         "latitude": 37.7858,
         "longitude": -122.4364
@@ -31,7 +33,8 @@
       "description": "This is event 3",
       "start": "2023-03-03T09:00:00",
       "end": "2023-03-03T11:00:00",
-      "venue": "Park",
+      "venue_name": "Park",
+      "venue_address": "Sector 8, Dwarka",
       "location": {
         "latitude": 37.8024,
         "longitude": -122.4356

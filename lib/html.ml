@@ -19,7 +19,7 @@ let event_to_html (event : Events.event) =
         ~a:[ a_href event.url; a_class [ "event-title-link" ] ]
         [ h2 ~a:[ a_class [ "event-title" ] ] [ txt event.title ] ];
       p ~a:[ a_class [ "event-description" ] ] [ txt event.description ];
-      p ~a:[ a_class [ "event-venue" ] ] [ txt ("Venue: " ^ event.venue) ];
+      p ~a:[ a_class [ "event-venue" ] ] [ txt @@ Events.venue event ];
       p ~a:[ a_class [ "event-time" ] ] [ txt ("Time: " ^ time) ];
     ]
 

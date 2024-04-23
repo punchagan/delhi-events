@@ -71,11 +71,22 @@ let meetup_event_to_event ~venues event =
         | _ -> None)
     | _ -> None
   in
-  let venue =
+  let venue_name, venue_address =
     match venue_id with
     | Some venue_id ->
-        Hashtbl.find venues venue_id |> member "name" |> to_string
-    | None -> "Unknown"
+        let venue = Hashtbl.find venues venue_id in
+        let name = venue |> member "name" |> to_string in
+        let address = venue |> member "address" |> to_string in
+        let city = venue |> member "city" |> to_string in
+        let full_address =
+          match (address, city) with
+          | "", "" -> ""
+          | x, "" -> x
+          | "", x -> x
+          | x, y -> Printf.sprintf "%s, %s" x y
+        in
+        (name, Some full_address)
+    | None -> ("Unknown", None)
   in
   match start_time with
   | Some start_time ->
@@ -89,10 +100,14 @@ let meetup_event_to_event ~venues event =
           url = event |> member "eventUrl" |> to_string;
           start_time;
           end_time;
-          venue;
+          venue_name;
+          venue_address;
           location = None;
         }
-  | None -> None
+  | None ->
+      Printf.printf "Skipping event with no start_time: %s"
+        (Yojson.Safe.pretty_to_string event);
+      None
 
 let filter_key_starts_with ~prefix = function
   | `Assoc l ->

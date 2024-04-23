@@ -28,21 +28,21 @@ Verify that generation works correctly
      <a href="https://example.com/event1" class="event-title-link">
       <h2 class="event-title">Event 1</h2>
      </a><p class="event-description">This is event 1</p>
-     <p class="event-venue">Venue: Conference Hall</p>
+     <p class="event-venue">Venue: Conference Hall, Sector 12, Gurugram</p>
      <p class="event-time">Time: 2023-03-01 15:00</p>
     </div>
     <div class="event-card">
      <a href="https://example.com/event2" class="event-title-link">
       <h2 class="event-title">Event 2</h2>
      </a><p class="event-description">This is event 2</p>
-     <p class="event-venue">Venue: Theater</p>
+     <p class="event-venue">Venue: Theater, Sector 8, Noida</p>
      <p class="event-time">Time: 2023-03-02 10:00 — 2023-03-02 12:00</p>
     </div>
     <div class="event-card">
      <a href="https://example.com/event3" class="event-title-link">
       <h2 class="event-title">Event 3</h2>
      </a><p class="event-description">This is event 3</p>
-     <p class="event-venue">Venue: Park</p>
+     <p class="event-venue">Venue: Park, Sector 8, Dwarka</p>
      <p class="event-time">Time: 2023-03-03 09:00 — 2023-03-03 11:00</p>
     </div>
    </body>

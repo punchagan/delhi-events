@@ -14,7 +14,7 @@ let event_to_ical (event : Events.event) =
   in
   let summary = event.title in
   let description = event.description in
-  let location = event.venue in
+  let location = Events.venue event in
   let props =
     [
       `Summary (empty, summary);

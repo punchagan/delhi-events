@@ -22,10 +22,10 @@ type event = {
   title : string;
   description : string;
   url : string;
-  (* FIXME: Split venue name and address *)
-  venue : string;
   start_time : datetime; [@key "start"]
   end_time : datetime option; [@default None] [@key "end"]
+  venue_name : string;
+  venue_address : string option;
   location : location option;
 }
 [@@deriving yojson { strict = false }]
@@ -41,3 +41,8 @@ let read_events path =
                (Yojson.Safe.to_string event)
                e;
              None)
+
+let venue event =
+  match event.venue_address with
+  | Some address -> Printf.sprintf "Venue: %s, %s" event.venue_name address
+  | _ -> Printf.sprintf "Venue: %s" event.venue_name
