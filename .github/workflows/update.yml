@@ -1,0 +1,47 @@
+---
+name: Update Events and Deploy Site
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up OCaml
+        uses: ocaml/setup-ocaml@v2
+        with:
+          ocaml-compiler: "5.1.1"
+
+      - name: Install dependencies
+        run: opam install . --deps-only --with-test
+
+      - name: Run tests
+        run: opam exec -- dune runtest
+
+      - name: Fetch Data and Generate site
+        run: |
+          mkdir -p tmp/data/
+          opam exec -- dune exec -- bin/main.exe fetch -i tmp/data/events.json
+          opam exec -- dune exec -- bin/main.exe generate -i tmp/data/events.json -o tmp/
+
+      - name: Commit data and site & Push GH pages branch
+        run: |
+          git config user.name "Delhi Events Bot"
+          git config user.email "punchagan+delhi-events@muse-amuse.in"
+          git checkout gh-pages
+          cp -a tmp/* .
+          git add data/events.json events.*
+          git commit -m "Update events data and site" || echo "No changes"
+          git push origin gh-pages
