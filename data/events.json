@@ -1,0 +1,290 @@
+{
+  "events": [
+    {
+      "id": "meetup-srqzdtygcjbnc",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygcjbnc/",
+      "start": "2024-06-30T14:00:00Z",
+      "end": "2024-06-30T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygcjbfc",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygcjbfc/",
+      "start": "2024-06-23T14:00:00Z",
+      "end": "2024-06-23T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygcjbvb",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygcjbvb/",
+      "start": "2024-06-16T14:00:00Z",
+      "end": "2024-06-16T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygcjbmb",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygcjbmb/",
+      "start": "2024-06-09T14:00:00Z",
+      "end": "2024-06-09T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygcjbdb",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygcjbdb/",
+      "start": "2024-06-02T14:00:00Z",
+      "end": "2024-06-02T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygchbjc",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygchbjc/",
+      "start": "2024-05-26T14:00:00Z",
+      "end": "2024-05-26T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-srqzdtygchbzb",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/srqzdtygchbzb/",
+      "start": "2024-05-19T14:00:00Z",
+      "end": "2024-05-19T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-300571544",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/300571544/",
+      "start": "2024-05-12T14:00:00Z",
+      "end": "2024-05-12T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-300430217",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/300430217/",
+      "start": "2024-05-05T14:00:00Z",
+      "end": "2024-05-05T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-300288996",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/300288996/",
+      "start": "2024-04-28T14:00:00Z",
+      "end": "2024-04-28T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-300147356",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/300147356/",
+      "start": "2024-04-21T14:00:00Z",
+      "end": "2024-04-21T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-300443396",
+      "title": "PyDelhi April Meetup",
+      "description": "Hey Fellow Pythonistas,\n\nPyDelhi is back with the April edition of our Monthly Meetups 🐍.\nWe have a few familiar and a few new speakers this time around.\n\n***Please cancel your RSVP if you're not attending the Meetup.***\n\n**Agenda:**\n**01:00 - 01:30:** Introduction to PyDelhi\n**01:30 - 02:00:** Create your own Python Library by [Pranav Puri](https://www.linkedin.com/in/kybrdbnd/)\n**02:00 - 02:30:** Networking Break\n**02:30 - 03:30:** Secure Development in Python by [Swati Laxmi](https://www.linkedin.com/in/swatil/)\n**03:30 - 04:30:** Secure Coding in Python by [Shruti Arora](https://www.linkedin.com/in/shrutiiaroraaa/)\n**04:30 - 05:00:** Hiring and Pitching Session & Group Photo\n\nThe venue for this meetup is Cluster Innovation Centre, University of Delhi\nNearest Delhi Metro Station is Vishwavidyalaya (Yellow Line). E-rickshaws are generally available.\n\nRSVP link: [https://www.meetup.com/pydelhi/events/300443396/](https://www.meetup.com/pydelhi/events/300443396/)\nGoogle Maps Link: [https://maps.app.goo.gl/xVvHzVjAkzviKgDp8](https://maps.app.goo.gl/xVvHzVjAkzviKgDp8)\n\nContact Ishaan for any help for directions on the event chat.\n\nIf you have any questions please send us a message on Telegram Group or please DM us on Twitter.\n\nCheers,\nPyDelhi!",
+      "url": "https://www.meetup.com/pydelhi/events/300443396/",
+      "start": "2024-04-20T07:30:00Z",
+      "end": "2024-04-20T11:30:00Z",
+      "venue_name": "Cluster Innovation Centre, University of Delhi",
+      "venue_address": "GC Narang Road, Delhi",
+      "location": null
+    },
+    {
+      "id": "meetup-299120052",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299120052/",
+      "start": "2024-04-14T14:00:00Z",
+      "end": "2024-04-14T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-299868931",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299868931/",
+      "start": "2024-04-07T14:00:00Z",
+      "end": "2024-04-07T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-299731191",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299731191/",
+      "start": "2024-03-31T14:00:00Z",
+      "end": "2024-03-31T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-299771772",
+      "title": "Rust Delhi Meetup #6",
+      "description": "Rust Delhi brings you another meetup, this time at Avanta, Statesman House, Connaught Place with our event sponsor Rust Foundation.\n\nJoin us on Saturday, 30th March for a meetup centered around Rust and its ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
+      "url": "https://www.meetup.com/rustdelhi/events/299771772/",
+      "start": "2024-03-30T08:30:00Z",
+      "end": "2024-03-30T11:30:00Z",
+      "venue_name": "Avanta Business Centre",
+      "venue_address": "402, Barakhamba Rd, New Delhi",
+      "location": null
+    },
+    {
+      "id": "meetup-299591379",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299591379/",
+      "start": "2024-03-24T14:00:00Z",
+      "end": "2024-03-24T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-299440536",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299440536/",
+      "start": "2024-03-17T14:00:00Z",
+      "end": "2024-03-17T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-298794986",
+      "title": "Pythonistas and Graphistas: Navigating the World of Graph Databases with Python",
+      "description": "Are you passionate about Python and intrigued by the fascinating realm of Graph Databases? Join us for a unique collaboration between the **Graph Database Delhi/NCR User Group (powered by [Neo4j](https://neo4j.com/))** and the **[Python Delhi User Group](https://www.meetup.com/pydelhi/)** on **16th March from 10 am to 2 PM** for an insightful meetup that brings together the best of both worlds!\n\n🚀 **Event Highlights:**\n\n1. **Expert Sessions:** Delve into the exciting possibilities at the intersection of Python and Graph Databases with our distinguished speakers and experts in both fields.\n2. **Hands-on Workshops:** Gain practical experience through hands-on workshops, where you'll have the opportunity to explore the powerful synergy between Python and Graph Databases.\n3. **Networking Opportunities:** Connect with like-minded Pythonistas and Graphistas, expanding your professional network and fostering collaborations for future projects.\n4. **Q&A Session:** Engage in a dynamic question-and-answer session with our expert panel, where you can seek advice, share your experiences, and gain deeper insights into the world of Python and Graph Databases.\n\n🗓️ **Event Details:**\n\n* **Date:** 16th March\n* **Time:** 10 am to 2 PM\n* **Location:** Coredge, Noida ([Google Maps Location](https://maps.app.goo.gl/HZJEUtax3vnn1BVy5))\n\n**Speakers:**\n🎤 Pranav Puri, Consultant @ KPMG\n**Talk:** Create your own Python Library\n**Summary:** In this talk, we will walk through how to create your own python library and what are its pros and cons. We will also talk about version control of the library.\n**Bio:** Having 6 years of working IT experience with expertise in devOps tools like GitHub Actions, Jenkins and cloud providers like AWS, Azure. 8+ years of working in Python Techstack. Hands-On experience with frameworks like Flask, ReactJS with end to end deployment.\n\n🎤 Ishaan Arora, Backend Engineer @ Aakash BYJU's\n**Talk:** Having fun with text in Python or 🐍❤🔠\n**Summary:** In this talk, we'll go through the basics of what actually text is, how it's represented, and what things can be done with it in Python.\n**Bio:** I like doing Python ^^\n\n🎤 Siddhant Agarwal, Developer Relations APAC @ Neo4j\n**Talk:** Graph powered NLP using Google Gemini, Python and Neo4j\n**Summary:** Are you ready to dive into the world of graph databases, harness the power of natural language processing (NLP), and build intelligent applications that understand and respond to human queries? Join for this exciting session to embark on a thrilling journey that combines the strength of Google Gemini, Neo4j, and Python and building intelligent Gen-AI applications.\n**Bio:** I am currently leading Developer Communities for APAC at Neo4j. Formerly, I pioneered India's first fintech community as the 'Developer Relations Lead' at Open Financial Technologies. Prior to that, I spearheaded community efforts as a Program Manager with Google's Developer Relations team in India, overseeing programs like Developer Student Clubs, TensorFlow User Groups, Google Developer Groups, and Google Developer Experts. In 2019, I collaborated with the Ministry of Electronics & Information Technology, Government of India, to launch 'Build for Digital India,' engaging 7,000+ students in solving India's challenges.\n\n🎟️ **Registration:** Secure your spot by RSVP for this exclusive event. Limited seats available!\n\nDon't miss out on this opportunity to be part of an enriching experience that blends the power of Python and Graph Databases. Whether you're a seasoned developer, a data enthusiast, or simply curious about the possibilities, this meetup is tailor-made for you!\n\nSee you there, ready to navigate the world of Graph Databases with Python like never before! 🚀🐍\n\n#PythonistasAndGraphistas #GraphDatabases #PythonMeetup",
+      "url": "https://www.meetup.com/pydelhi/events/298794986/",
+      "start": "2024-03-16T04:30:00Z",
+      "end": "2024-03-16T08:30:00Z",
+      "venue_name": "Coredge.io",
+      "venue_address": "A-44 &45, Noida",
+      "location": null
+    },
+    {
+      "id": "meetup-299293733",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299293733/",
+      "start": "2024-03-10T14:00:00Z",
+      "end": "2024-03-10T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-299361821",
+      "title": "Community Check-in",
+      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
+      "url": "https://www.meetup.com/pydelhi/events/299361821/",
+      "start": "2024-03-03T14:00:00Z",
+      "end": "2024-03-03T15:00:00Z",
+      "venue_name": "Online event",
+      "venue_address": "",
+      "location": null
+    },
+    {
+      "id": "meetup-298864671",
+      "title": "Meetup #5",
+      "description": "Rust Delhi brings you another meetup, this time at IIT Delhi with our sponsor Aftershoot.co.\n\nJoin us on Saturday, 17th February for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
+      "url": "https://www.meetup.com/rustdelhi/events/298864671/",
+      "start": "2024-02-17T05:30:00Z",
+      "end": "2024-02-17T08:30:00Z",
+      "venue_name": "Research and Innovation Park (RNI) - IIT DELHI",
+      "venue_address": "S Ave St, New Delhi",
+      "location": null
+    },
+    {
+      "id": "meetup-297652586",
+      "title": "Meetup #4",
+      "description": "Rust Delhi brings you another meetup, this time at Amigo Coworking Spaces in Noida sector 8. Join us on Saturday, 16th December for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
+      "url": "https://www.meetup.com/rustdelhi/events/297652586/",
+      "start": "2023-12-16T08:30:00Z",
+      "end": "2023-12-16T11:30:00Z",
+      "venue_name": "Amigo",
+      "venue_address": "C25, Noida",
+      "location": null
+    },
+    {
+      "id": "meetup-296654653",
+      "title": "Meetup #3 @ CIC, DU",
+      "description": "Rust Delhi brings you another meetup, this time at [Cluster Innovation Center, Delhi University](https://cic.du.ac.in/). Join us this Saturday, October the 14th for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
+      "url": "https://www.meetup.com/rustdelhi/events/296654653/",
+      "start": "2023-10-14T04:00:00Z",
+      "end": "2023-10-14T07:30:00Z",
+      "venue_name": "Cluster Innovation Centre",
+      "venue_address": "Rugby Sevens Building, University Stadium, University of Delhi, G.C Narang Marg, Delhi, 110007, Delhi",
+      "location": null
+    },
+    {
+      "id": "meetup-295486853",
+      "title": "Meetup #2, with Functional Programming India",
+      "description": "Rust Delhi brings you another meetup, this time in collaboration with [FPIndia](https://functionalprogramming.in/). Join us this August the 26th for a meetup centered around **Concurrency Patterns**.\n\nWe're actively looking to schedule talks and discussions on concurrency in Rust and other languages. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
+      "url": "https://www.meetup.com/rustdelhi/events/295486853/",
+      "start": "2023-08-26T04:30:00Z",
+      "end": "2023-08-26T07:30:00Z",
+      "venue_name": "Avanta Coworking Space in Gurgaon",
+      "venue_address": "National Highway 8, Gurugram",
+      "location": null
+    },
+    {
+      "id": "meetup-293908211",
+      "title": "Rust Delhi: Meetup #1",
+      "description": "Hi folks, Rust Delhi brings you Delhi's first Rust meetup. Join us on Saturday the 10th of June to meet fellow Rust enthusiasts, share your Rust stories and discuss the future of the Rust Delhi community. We'll accept lightning talks on the spot, if you have something you want to share!\n\nEvent Agenda (tentative):\n\n* Kickstarting Rust Delhi (00:10)\n* Introductions, Rust Stories and Why Rust (00:30)\n* “Rust 101” by [Guinnes Singh](https://twitter.com/gswebspace) (00:30)\n* “Adventures in porting a UI framework from Haskell to Rust, part 1 - the virtual dom” by [Anupam Jain](https://ajnsit.github.io/) (00:30)\n* —— Networking + Food (00:30)\n* Lightning Talks. Choose to give a short talk on the spot. (00:30)\n* Hiring and Pitching. Open to anyone hiring for pula Rust role, looking for a Rust role or otherwise. (00:20)\n* Finding Our Logo with [Ishaan Arora](https://twitter.com/realpulsar17) (00:20)\n* Volunteering for Rust Delhi (00:10)",
+      "url": "https://www.meetup.com/rustdelhi/events/293908211/",
+      "start": "2023-06-10T06:30:00Z",
+      "end": "2023-06-10T09:30:00Z",
+      "venue_name": "Research and Innovation Park, IIT Delhi",
+      "venue_address": "Research and Innovation Park, IIT Delhi, Hauz Khas,, New Delhi",
+      "location": null
+    }
+  ]
+}
