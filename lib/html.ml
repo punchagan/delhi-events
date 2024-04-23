@@ -46,4 +46,4 @@ let generate events =
          ])
       (body @@ [ page_header ] @ events_html)
   in
-  Format.asprintf "%a" (Tyxml.Html.pp ()) page
+  Format.asprintf "%a" (Tyxml.Html.pp ~indent:true ()) page
