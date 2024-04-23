@@ -126,6 +126,11 @@ let extract_meetup_events json_str =
   let events = data |> filter_key_starts_with ~prefix:"Event:" |> values in
   List.filter_map (meetup_event_to_event ~venues) events
 
+let rec mkdir_p path =
+  let parent = Filename.dirname path in
+  if not (Sys.file_exists parent) then mkdir_p parent;
+  if not (Sys.file_exists path) then Unix.mkdir path 0o755
+
 let run events_db =
   let version = get_version () in
   let urls = meetup_urls version in
@@ -150,6 +155,8 @@ let run events_db =
     |> List.map Events.event_to_yojson
     |> fun es -> `Assoc [ ("events", `List es) ]
   in
+  let root = Filename.dirname events_db in
+  mkdir_p root;
   let chan = open_out events_db in
   Yojson.Safe.pretty_to_channel chan events_json;
   close_out chan
