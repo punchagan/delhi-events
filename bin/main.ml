@@ -12,17 +12,9 @@ let output_dir_arg =
   let doc = "Directory where the output files will be saved." in
   Arg.(value & opt string "output" & info [ "o"; "output" ] ~docv:"DIR" ~doc)
 
-let run_generate input_file output_dir =
-  let events = Events.read_events input_file in
-  let html_output = Html.generate events in
-  let cal_output = Cal.generate events in
-  Generate.write_to_file output_dir "events.html" html_output;
-  Generate.write_to_file output_dir "events.ics" cal_output;
-  ()
-
 let generate_output_cmd =
   let doc = "Generate HTML, RSS and iCal output from the events list" in
-  let term = Term.(const run_generate $ input_arg $ output_dir_arg) in
+  let term = Term.(const Generate.run $ input_arg $ output_dir_arg) in
   let info =
     Cmd.info "generate" ~doc ~sdocs:"COMMON OPTIONS" ~exits:Cmd.Exit.defaults
   in
