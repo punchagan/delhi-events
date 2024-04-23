@@ -31,6 +31,7 @@
    cohttp-eio
    lambdasoup
    tls-eio
+   cmdliner
    mirage-crypto-rng-eio)
  (tags
   (topics "to describe" your project)))
