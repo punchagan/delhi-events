@@ -62,6 +62,14 @@ let generate events =
       (head
          (title (txt "Delhi NCR Events"))
          [
+           meta ~a:[ a_charset "UTF-8" ] ();
+           meta
+             ~a:
+               [
+                 a_name "viewport";
+                 a_content "width=device-width, initial-scale=1.0";
+               ]
+             ();
            link ~rel:[ `Stylesheet ]
              ~href:"https://cdn.simplecss.org/simple.min.css" ();
            style [ txt Asset.styles ];

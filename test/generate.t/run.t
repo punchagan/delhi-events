@@ -17,7 +17,8 @@ Verify that generation works correctly
   $ cat output/events.html
   <!DOCTYPE html>
   <html xmlns="http://www.w3.org/1999/xhtml">
-   <head><title>Delhi NCR Events</title>
+   <head><title>Delhi NCR Events</title><meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css"/>
     <style>
      ul.footer-list {
