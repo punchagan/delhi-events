@@ -46,7 +46,7 @@ let get_version () =
   version
 
 let meetup_urls version =
-  let groups = [ "pydelhi"; "rustdelhi" ] in
+  let groups = [ "pydelhi"; "rustdelhi"; "delhi-elixir-meetup-group" ] in
   List.map
     (fun name ->
       Printf.sprintf "%s/_next/data/%s/en-US/%s/events/calendar.json" meetup_url
