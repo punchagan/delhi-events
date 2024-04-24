@@ -21,6 +21,7 @@ type event = {
   id : string;
   title : string;
   description : string;
+  has_markdown : bool; [@default false]
   url : string;
   start_time : datetime; [@key "start"]
   end_time : datetime option; [@default None] [@key "end"]

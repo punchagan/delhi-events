@@ -95,8 +95,8 @@ let meetup_event_to_event ~venues event =
           Events.id =
             event |> member "id" |> to_string |> Printf.sprintf "meetup-%s";
           title = event |> member "title" |> to_string;
-          (* FIXME: Markdown? *)
           description = event |> member "description" |> to_string;
+          has_markdown = true;
           url = event |> member "eventUrl" |> to_string;
           start_time;
           end_time;

@@ -22,6 +22,7 @@ depends: [
   "tls-eio"
   "cmdliner"
   "mirage-crypto-rng-eio"
+  "cmarkit"
   "odoc" {with-doc}
 ]
 build: [

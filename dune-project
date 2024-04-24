@@ -29,7 +29,9 @@
    lambdasoup
    tls-eio
    cmdliner
-   mirage-crypto-rng-eio)
+   mirage-crypto-rng-eio
+   cmarkit
+ )
  (tags
   (topics events calendar html rss generator ssg)))
 

@@ -7,6 +7,13 @@ let format_datetime t =
 
 let event_to_html (event : Events.event) =
   let start_time = format_datetime event.start_time in
+  let description =
+    if event.has_markdown then
+      let doc = Cmarkit.Doc.of_string ~strict:true event.description in
+      let html_text = Cmarkit_html.of_doc ~safe:true doc in
+      [ Unsafe.data html_text ]
+    else [ txt event.description ]
+  in
   let time =
     match event.end_time with
     | Some t -> start_time ^ " — " ^ format_datetime t
@@ -18,7 +25,10 @@ let event_to_html (event : Events.event) =
       a
         ~a:[ a_href event.url; a_class [ "event-title-link" ] ]
         [ h2 ~a:[ a_class [ "event-title" ] ] [ txt event.title ] ];
-      p ~a:[ a_class [ "event-description" ] ] [ txt event.description ];
+      details
+        ~a:[ a_class [ "event-description" ] ]
+        (summary [ txt "Description" ])
+        description;
       p ~a:[ a_class [ "event-venue" ] ] [ txt @@ Events.venue event ];
       p ~a:[ a_class [ "event-time" ] ] [ txt ("Time: " ^ time) ];
     ]
