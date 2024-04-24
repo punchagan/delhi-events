@@ -48,3 +48,9 @@ let venue event =
   | Some address when address <> "" ->
       Printf.sprintf "Venue: %s, %s" event.venue_name address
   | _ -> Printf.sprintf "Venue: %s" event.venue_name
+
+let description_html event =
+  if event.has_markdown then
+    let doc = Cmarkit.Doc.of_string ~strict:true event.description in
+    Cmarkit_html.of_doc ~safe:true doc
+  else event.description

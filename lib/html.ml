@@ -9,10 +9,7 @@ let format_datetime t =
 let event_to_html (event : Events.event) =
   let start_time = format_datetime event.start_time in
   let description =
-    if event.has_markdown then
-      let doc = Cmarkit.Doc.of_string ~strict:true event.description in
-      let html_text = Cmarkit_html.of_doc ~safe:true doc in
-      [ Unsafe.data html_text ]
+    if event.has_markdown then [ Unsafe.data @@ Events.description_html event ]
     else [ txt event.description ]
   in
   let time =
