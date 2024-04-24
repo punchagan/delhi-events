@@ -25,6 +25,7 @@ type event = {
   url : string;
   start_time : datetime; [@key "start"]
   end_time : datetime option; [@default None] [@key "end"]
+  created_time : datetime option; [@default None] [@key "created"]
   venue_name : string;
   venue_address : string option;
   location : location option;

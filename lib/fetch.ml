@@ -62,6 +62,7 @@ let meetup_event_to_event ~venues event =
   in
   let start_time = get_time_opt event "dateTime" in
   let end_time = get_time_opt event "endTime" in
+  let created_time = get_time_opt event "createdTime" in
   let venue_ref = member "venue" event |> member "__ref" in
   let venue_id =
     match venue_ref with
@@ -100,6 +101,7 @@ let meetup_event_to_event ~venues event =
           url = event |> member "eventUrl" |> to_string;
           start_time;
           end_time;
+          created_time;
           venue_name;
           venue_address;
           location = None;
