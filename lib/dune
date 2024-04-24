@@ -1,3 +1,11 @@
+(rule
+ (with-stdout-to
+  asset.ml
+  (progn
+   (echo "let styles = {css|")
+   (cat html-assets/styles.css)
+   (echo "|css}\n"))))
+
 (library
  (name delhi_events)
  (libraries

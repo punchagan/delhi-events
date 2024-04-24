@@ -19,6 +19,15 @@ Verify that generation works correctly
   <html xmlns="http://www.w3.org/1999/xhtml">
    <head><title>Delhi NCR Events</title>
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css"/>
+    <style>
+     ul.footer-list {
+         list-style: none;
+         display: flex;
+         justify-content: space-evenly;
+         margin: 0;
+         padding: 0;
+     }
+     </style>
    </head>
    <body>
     <header><h1>Delhi NCR events</h1>
@@ -45,5 +54,10 @@ Verify that generation works correctly
      <p class="event-venue">Venue: Park, Sector 8, Dwarka</p>
      <p class="event-time">Time: 2023-03-03 09:00 — 2023-03-03 11:00</p>
     </div>
+    <footer>
+     <ul class="footer-list"><li><a href="">Home</a></li>
+      <li><a href="./events.ics">Calendar</a></li>
+     </ul>
+    </footer>
    </body>
   </html>

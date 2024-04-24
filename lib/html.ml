@@ -36,6 +36,17 @@ let generate events =
           ];
       ]
   in
+  let page_footer =
+    footer
+      [
+        ul
+          ~a:[ a_class [ "footer-list" ] ]
+          [
+            li [ a ~a:[ a_href "" ] [ txt "Home" ] ];
+            li [ a ~a:[ a_href "./events.ics" ] [ txt "Calendar" ] ];
+          ];
+      ]
+  in
   let page =
     html
       (head
@@ -43,7 +54,8 @@ let generate events =
          [
            link ~rel:[ `Stylesheet ]
              ~href:"https://cdn.simplecss.org/simple.min.css" ();
+           style [ txt Asset.styles ];
          ])
-      (body @@ [ page_header ] @ events_html)
+      (body @@ [ page_header ] @ events_html @ [ page_footer ])
   in
   Format.asprintf "%a" (Tyxml.Html.pp ~indent:true ()) page
