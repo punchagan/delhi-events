@@ -2,13 +2,12 @@
 opam-version: "2.0"
 synopsis: "A short synopsis"
 description: "A longer description"
-maintainer: ["Maintainer Name"]
-authors: ["Author Name"]
-license: "LICENSE"
-tags: ["topics" "to describe" "your" "project"]
-homepage: "https://github.com/username/reponame"
-doc: "https://url/to/documentation"
-bug-reports: "https://github.com/username/reponame/issues"
+maintainer: ["Puneeth Chaganti"]
+authors: ["Puneeth Chaganti"]
+license: "ISC"
+tags: ["topics" "events" "calendar" "html" "rss" "generator" "ssg"]
+homepage: "https://github.com/punchagan/delhi-events"
+bug-reports: "https://github.com/punchagan/delhi-events/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.15"}
@@ -39,4 +38,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/username/reponame.git"
+dev-repo: "git+https://github.com/punchagan/delhi-events.git"

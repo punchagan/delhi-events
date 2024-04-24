@@ -5,15 +5,12 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github punchagan/delhi-events))
 
-(authors "Author Name")
+(authors "Puneeth Chaganti")
+(maintainers "Puneeth Chaganti")
 
-(maintainers "Maintainer Name")
-
-(license LICENSE)
-
-(documentation https://url/to/documentation)
+(license ISC)
 
 (package
  (name delhi_events)
@@ -34,6 +31,6 @@
    cmdliner
    mirage-crypto-rng-eio)
  (tags
-  (topics "to describe" your project)))
+  (topics events calendar html rss generator ssg)))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/dune-files.html#dune-project
