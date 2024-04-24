@@ -50,7 +50,7 @@ let generate events =
         ul
           ~a:[ a_class [ "footer-list" ] ]
           [
-            li [ a ~a:[ a_href "" ] [ txt "Home" ] ];
+            li [ a ~a:[ a_href "./events.rss" ] [ txt "RSS" ] ];
             li [ a ~a:[ a_href "./events.ics" ] [ txt "Calendar" ] ];
           ];
       ]

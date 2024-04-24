@@ -31,6 +31,7 @@
    cmdliner
    mirage-crypto-rng-eio
    cmarkit
+   rss
  )
  (tags
   (topics events calendar html rss generator ssg)))

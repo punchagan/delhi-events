@@ -23,6 +23,7 @@ depends: [
   "cmdliner"
   "mirage-crypto-rng-eio"
   "cmarkit"
+  "rss"
   "odoc" {with-doc}
 ]
 build: [

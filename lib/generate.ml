@@ -9,6 +9,8 @@ let run input_file output_dir =
   let events = Events.read_events input_file in
   let html_output = Html.generate events in
   let cal_output = Cal.generate events in
+  let rss_output = Feed.generate events in
   write_to_file output_dir "events.html" html_output;
   write_to_file output_dir "events.ics" cal_output;
+  write_to_file output_dir "events.rss" rss_output;
   ()

@@ -4,6 +4,7 @@ Verify that generation works correctly
   $ ls output/
   events.html
   events.ics
+  events.rss
   $ head output/events.ics |grep -v "^DTSTAMP"
   BEGIN:VCALENDAR
   PRODID:-//Delhi NCR Events//All Events//EN
@@ -63,7 +64,7 @@ Verify that generation works correctly
      <p class="event-time">Time: 2023-03-03 14:30 — 2023-03-03 16:30</p>
     </div>
     <footer>
-     <ul class="footer-list"><li><a href="">Home</a></li>
+     <ul class="footer-list"><li><a href="./events.rss">RSS</a></li>
       <li><a href="./events.ics">Calendar</a></li>
      </ul>
     </footer>
