@@ -2,7 +2,8 @@ open Tyxml.Html
 
 let format_datetime t =
   let year, month, day = Ptime.to_date t in
-  let time_str = Ptime.to_rfc3339 ~tz_offset_s:0 t in
+  let tz_offset_s = Events.tz_offset_s in
+  let time_str = Ptime.to_rfc3339 ~tz_offset_s t in
   Printf.sprintf "%04d-%02d-%02d %s" year month day (String.sub time_str 11 5)
 
 let event_to_html (event : Events.event) =

@@ -2,8 +2,8 @@ open Yojson.Safe.Util
 
 type datetime = Ptime.t
 
-let datetime_to_yojson (t : Ptime.t) =
-  `String (Ptime.to_rfc3339 ~tz_offset_s:0 t)
+let tz_offset_s = int_of_float (3600. *. 5.5)
+let datetime_to_yojson (t : Ptime.t) = `String (Ptime.to_rfc3339 ~tz_offset_s t)
 
 let datetime_of_yojson = function
   | `String s -> (
