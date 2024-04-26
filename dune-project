@@ -17,8 +17,8 @@
  (synopsis "A short synopsis")
  (description "A longer description")
  (depends
-   ocaml
-   dune
+   (ocaml (>= 5.1.1))
+   (dune (>= 3.8))
    yojson
    ppx_deriving_yojson
    tyxml
@@ -26,8 +26,8 @@
    (eio (>= 1.0))
    eio_main
    cohttp-eio
-   lambdasoup
    tls-eio
+   lambdasoup
    cmdliner
    mirage-crypto-rng-eio
    cmarkit

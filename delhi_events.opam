@@ -9,8 +9,8 @@ tags: ["topics" "events" "calendar" "html" "rss" "generator" "ssg"]
 homepage: "https://github.com/punchagan/delhi-events"
 bug-reports: "https://github.com/punchagan/delhi-events/issues"
 depends: [
-  "ocaml"
-  "dune" {>= "3.15"}
+  "ocaml" {>= "5.1.1"}
+  "dune" {>= "3.15" & >= "3.8"}
   "yojson"
   "ppx_deriving_yojson"
   "tyxml"
@@ -18,8 +18,8 @@ depends: [
   "eio" {>= "1.0"}
   "eio_main"
   "cohttp-eio"
-  "lambdasoup"
   "tls-eio"
+  "lambdasoup"
   "cmdliner"
   "mirage-crypto-rng-eio"
   "cmarkit"
