@@ -5,3 +5,6 @@ tmp/
 
 _build/
 output/
+
+node_modules/
+.vite/

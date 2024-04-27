@@ -1,0 +1,18 @@
+(subdir
+ assets
+ (rule
+  (targets events.json)
+  (deps ../bin/main.exe)
+  (action
+   (progn
+    (run %{exe:../bin/main.exe} fetch -i events.json)))))
+
+(rule
+ (targets
+  index.html
+  (dir static))
+ (deps assets/events.json ./bin/main.exe)
+ (action
+  (progn
+   (run %{exe:./bin/main.exe} generate -i ./assets/events.json -o .)
+   (system "mv ./assets/events.json ./static/events.json"))))

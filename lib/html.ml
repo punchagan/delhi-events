@@ -32,7 +32,7 @@ let event_to_html (event : Events.event) =
     ]
 
 let generate events =
-  let events_html = List.map event_to_html events in
+  let events_html = div ~a:[ a_id "app" ] (List.map event_to_html events) in
   let page_header =
     header
       [
@@ -71,7 +71,10 @@ let generate events =
            link ~rel:[ `Stylesheet ]
              ~href:"https://cdn.simplecss.org/simple.min.css" ();
            style [ txt Asset.styles ];
+           Unsafe.data
+             "<script src=\"./frontend/output/frontend/Index.js\" \
+              type=\"module\"></script>";
          ])
-      (body @@ [ page_header ] @ events_html @ [ page_footer ])
+      (body @@ [ page_header; events_html; page_footer ])
   in
   Format.asprintf "%a" (Tyxml.Html.pp ~indent:true ()) page

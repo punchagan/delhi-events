@@ -1,0 +1,6 @@
+(library
+ (name lib)
+ (modes melange)
+ (libraries)
+ (preprocess
+  (pps ppx_deriving_json.browser melange.ppx)))
