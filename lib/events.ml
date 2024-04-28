@@ -22,6 +22,7 @@ type event = {
   title : string;
   description : string;
   has_markdown : bool; [@default false]
+  is_online : bool; [@default false]
   url : string;
   start_time : datetime; [@key "start"]
   end_time : datetime option; [@default None] [@key "end"]

@@ -4,24 +4,26 @@ open Lib.Types;
 let make = (~events) => {
   let (displayedEvents, setDisplayedEvents) = React.useState(() => [||]);
   let (showAll, setShowAll) = React.useState(() => false);
+  let (showOnline, setShowOnline) = React.useState(() => false);
 
-  React.useEffect2(
+  React.useEffect3(
     () => {
       let es =
-        showAll
-          ? events
-          : List.filter(
-              e => {
-                let _now = Js.Date.make();
-                e.start_time > _now;
-              },
-              events |> Array.to_list,
-            )
-            |> Array.of_list;
+        events
+        |> Array.to_list
+        |> List.filter(e => {
+             let _now = Js.Date.make();
+             showAll || e.start_time > _now;
+           })
+        |> List.filter(e => {
+             let _now = Js.Date.make();
+             showOnline || !e.is_online;
+           })
+        |> Array.of_list;
       setDisplayedEvents(_ => es);
       None;
     },
-    (showAll, events),
+    (showAll, showOnline, events),
   );
 
   let eventList = {
@@ -39,7 +41,7 @@ let make = (~events) => {
   };
 
   <>
-    <EventFilter setShowAll />
+    <EventFilter setShowAll setShowOnline />
     {Array.length(displayedEvents) > 0 ? eventList : noEvents}
   </>;
 };

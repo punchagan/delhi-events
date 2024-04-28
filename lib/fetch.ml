@@ -98,6 +98,7 @@ let meetup_event_to_event ~venues event =
           title = event |> member "title" |> to_string;
           description = event |> member "description" |> to_string;
           has_markdown = true;
+          is_online = event |> member "isOnline" |> to_bool;
           url = event |> member "eventUrl" |> to_string;
           start_time;
           end_time;
