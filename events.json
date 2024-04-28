@@ -83,19 +83,6 @@
       "location": null
     },
     {
-      "id": "meetup-299771772",
-      "title": "Rust Delhi Meetup #6",
-      "description": "Rust Delhi brings you another meetup, this time at Avanta, Statesman House, Connaught Place with our event sponsor Rust Foundation.\n\nJoin us on Saturday, 30th March for a meetup centered around Rust and its ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/299771772/",
-      "start": "2024-03-30T14:00:00+05:30",
-      "end": "2024-03-30T17:00:00+05:30",
-      "created": "2024-03-13T22:29:50+05:30",
-      "venue_name": "Avanta Business Centre",
-      "venue_address": "402, Barakhamba Rd, New Delhi",
-      "location": null
-    },
-    {
       "id": "meetup-299591379",
       "title": "Community Check-in",
       "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
@@ -165,19 +152,6 @@
       "location": null
     },
     {
-      "id": "meetup-298864671",
-      "title": "Meetup #5",
-      "description": "Rust Delhi brings you another meetup, this time at IIT Delhi with our sponsor Aftershoot.co.\n\nJoin us on Saturday, 17th February for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/298864671/",
-      "start": "2024-02-17T11:00:00+05:30",
-      "end": "2024-02-17T14:00:00+05:30",
-      "created": "2024-01-29T22:16:51+05:30",
-      "venue_name": "Research and Innovation Park (RNI) - IIT DELHI",
-      "venue_address": "S Ave St, New Delhi",
-      "location": null
-    },
-    {
       "id": "meetup-298696186",
       "title": "ElixirDelhi February Meetup",
       "description": "Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:\n\n\\- Introductions\n\\- Talk 1 \\- TBD\n\\- Talk 1 \\- TBD\n\\- Snack break\n\\- Hiring/pitching sessions\n\\- Group photo",
@@ -204,19 +178,6 @@
       "location": null
     },
     {
-      "id": "meetup-297652586",
-      "title": "Meetup #4",
-      "description": "Rust Delhi brings you another meetup, this time at Amigo Coworking Spaces in Noida sector 8. Join us on Saturday, 16th December for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/297652586/",
-      "start": "2023-12-16T14:00:00+05:30",
-      "end": "2023-12-16T17:00:00+05:30",
-      "created": "2023-11-29T14:25:36+05:30",
-      "venue_name": "Amigo",
-      "venue_address": "C25, Noida",
-      "location": null
-    },
-    {
       "id": "meetup-297113819",
       "title": "Elixir November Meetup",
       "description": "Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:\n\n\\- Introductions\n\\- Talk 1: Process memory in ERTS by [Akshit Garg](https://www.linkedin.com/in/akshit-garg-05544623b/)\n\\- Snack break\n\\- Talk 2: Erlang's Origin to Modern Day Application by [Zorawar Purohit](https://www.linkedin.com/in/zorawarpurohit/)\n\\- Hiring/pitching sessions\n\\- Group photo",
@@ -227,32 +188,6 @@
       "created": "2023-11-02T19:26:47+05:30",
       "venue_name": "Center for the Study of Developing Societies(CSDS)",
       "venue_address": "29, Rajpur Road, Delhi",
-      "location": null
-    },
-    {
-      "id": "meetup-296654653",
-      "title": "Meetup #3 @ CIC, DU",
-      "description": "Rust Delhi brings you another meetup, this time at [Cluster Innovation Center, Delhi University](https://cic.du.ac.in/). Join us this Saturday, October the 14th for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/296654653/",
-      "start": "2023-10-14T09:30:00+05:30",
-      "end": "2023-10-14T13:00:00+05:30",
-      "created": "2023-10-10T15:31:01+05:30",
-      "venue_name": "Cluster Innovation Centre",
-      "venue_address": "Rugby Sevens Building, University Stadium, University of Delhi, G.C Narang Marg, Delhi, 110007, Delhi",
-      "location": null
-    },
-    {
-      "id": "meetup-295486853",
-      "title": "Meetup #2, with Functional Programming India",
-      "description": "Rust Delhi brings you another meetup, this time in collaboration with [FPIndia](https://functionalprogramming.in/). Join us this August the 26th for a meetup centered around **Concurrency Patterns**.\n\nWe're actively looking to schedule talks and discussions on concurrency in Rust and other languages. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/295486853/",
-      "start": "2023-08-26T10:00:00+05:30",
-      "end": "2023-08-26T13:00:00+05:30",
-      "created": "2023-08-16T22:58:42+05:30",
-      "venue_name": "Avanta Coworking Space in Gurgaon",
-      "venue_address": "National Highway 8, Gurugram",
       "location": null
     },
     {
@@ -279,19 +214,6 @@
       "created": "2023-06-27T23:03:16+05:30",
       "venue_name": "Center for the Study of Developing Societies(CSDS)",
       "venue_address": "29, Rajpur Road, Delhi",
-      "location": null
-    },
-    {
-      "id": "meetup-293908211",
-      "title": "Rust Delhi: Meetup #1",
-      "description": "Hi folks, Rust Delhi brings you Delhi's first Rust meetup. Join us on Saturday the 10th of June to meet fellow Rust enthusiasts, share your Rust stories and discuss the future of the Rust Delhi community. We'll accept lightning talks on the spot, if you have something you want to share!\n\nEvent Agenda (tentative):\n\n* Kickstarting Rust Delhi (00:10)\n* Introductions, Rust Stories and Why Rust (00:30)\n* “Rust 101” by [Guinnes Singh](https://twitter.com/gswebspace) (00:30)\n* “Adventures in porting a UI framework from Haskell to Rust, part 1 - the virtual dom” by [Anupam Jain](https://ajnsit.github.io/) (00:30)\n* —— Networking + Food (00:30)\n* Lightning Talks. Choose to give a short talk on the spot. (00:30)\n* Hiring and Pitching. Open to anyone hiring for pula Rust role, looking for a Rust role or otherwise. (00:20)\n* Finding Our Logo with [Ishaan Arora](https://twitter.com/realpulsar17) (00:20)\n* Volunteering for Rust Delhi (00:10)",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/rustdelhi/events/293908211/",
-      "start": "2023-06-10T12:00:00+05:30",
-      "end": "2023-06-10T15:00:00+05:30",
-      "created": "2023-06-01T18:50:10+05:30",
-      "venue_name": "Research and Innovation Park, IIT Delhi",
-      "venue_address": "Research and Innovation Park, IIT Delhi, Hauz Khas,, New Delhi",
       "location": null
     },
     {

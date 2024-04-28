@@ -14,10 +14,10 @@ Upcoming events in the Delhi NCR area
 en-us
 </language>
 <pubDate>
-2024-04-28 08:54:49 +00:00
+2024-04-28 10:14:53 +00:00
 </pubDate>
 <lastBuildDate>
-2024-04-28 08:54:49 +00:00
+2024-04-28 10:14:53 +00:00
 </lastBuildDate>
 <generator>
 OCaml RSS library
@@ -166,26 +166,6 @@ https://www.meetup.com/pydelhi/events/299731191/
 </item>
 <item>
 <title>
-Rust Delhi Meetup #6
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/299771772/
-</link>
-<description>
-&lt;p&gt;Rust Delhi brings you another meetup, this time at Avanta, Statesman House, Connaught Place with our event sponsor Rust Foundation.&lt;/p&gt;
-&lt;p&gt;Join us on Saturday, 30th March for a meetup centered around Rust and its ecosystem.&lt;/p&gt;
-&lt;p&gt;We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our &lt;a href=&quot;https://github.com/rustdelhi/talks/issues&quot;&gt;GitHub&lt;/a&gt; if you would like to give one! For queries and suggestions join our &lt;a href=&quot;https://t.me/rustdelhi&quot;&gt;community channel on Telegram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-<pubDate>
-2024-03-13 16:59:50 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/299771772/
-</guid>
-</item>
-<item>
-<title>
 Community Check-in
 </title>
 <link>
@@ -314,26 +294,6 @@ https://www.meetup.com/pydelhi/events/299361821/
 </item>
 <item>
 <title>
-Meetup #5
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/298864671/
-</link>
-<description>
-&lt;p&gt;Rust Delhi brings you another meetup, this time at IIT Delhi with our sponsor Aftershoot.co.&lt;/p&gt;
-&lt;p&gt;Join us on Saturday, 17th February for a meetup centered around Rust and it's ecosystem.&lt;/p&gt;
-&lt;p&gt;We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our &lt;a href=&quot;https://github.com/rustdelhi/talks/issues&quot;&gt;GitHub&lt;/a&gt; if you would like to give one! For queries and suggestions join our &lt;a href=&quot;https://t.me/rustdelhi&quot;&gt;community channel on Telegram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-<pubDate>
-2024-01-29 16:46:51 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/298864671/
-</guid>
-</item>
-<item>
-<title>
 ElixirDelhi February Meetup
 </title>
 <link>
@@ -381,25 +341,6 @@ https://www.meetup.com/delhi-elixir-meetup-group/events/298306254/
 </item>
 <item>
 <title>
-Meetup #4
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/297652586/
-</link>
-<description>
-&lt;p&gt;Rust Delhi brings you another meetup, this time at Amigo Coworking Spaces in Noida sector 8. Join us on Saturday, 16th December for a meetup centered around Rust and it's ecosystem.&lt;/p&gt;
-&lt;p&gt;We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our &lt;a href=&quot;https://github.com/rustdelhi/talks/issues&quot;&gt;GitHub&lt;/a&gt; if you would like to give one! For queries and suggestions join our &lt;a href=&quot;https://t.me/rustdelhi&quot;&gt;community channel on Telegram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-<pubDate>
-2023-11-29 08:55:36 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/297652586/
-</guid>
-</item>
-<item>
-<title>
 Elixir November Meetup
 </title>
 <link>
@@ -420,44 +361,6 @@ https://www.meetup.com/delhi-elixir-meetup-group/events/297113819/
 </pubDate>
 <guid isPermaLink="true">
 https://www.meetup.com/delhi-elixir-meetup-group/events/297113819/
-</guid>
-</item>
-<item>
-<title>
-Meetup #3 @ CIC, DU
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/296654653/
-</link>
-<description>
-&lt;p&gt;Rust Delhi brings you another meetup, this time at &lt;a href=&quot;https://cic.du.ac.in/&quot;&gt;Cluster Innovation Center, Delhi University&lt;/a&gt;. Join us this Saturday, October the 14th for a meetup centered around Rust and it's ecosystem.&lt;/p&gt;
-&lt;p&gt;We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our &lt;a href=&quot;https://github.com/rustdelhi/talks/issues&quot;&gt;GitHub&lt;/a&gt; if you would like to give one! For queries and suggestions join our &lt;a href=&quot;https://t.me/rustdelhi&quot;&gt;community channel on Telegram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-<pubDate>
-2023-10-10 10:01:01 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/296654653/
-</guid>
-</item>
-<item>
-<title>
-Meetup #2, with Functional Programming India
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/295486853/
-</link>
-<description>
-&lt;p&gt;Rust Delhi brings you another meetup, this time in collaboration with &lt;a href=&quot;https://functionalprogramming.in/&quot;&gt;FPIndia&lt;/a&gt;. Join us this August the 26th for a meetup centered around &lt;strong&gt;Concurrency Patterns&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;We're actively looking to schedule talks and discussions on concurrency in Rust and other languages. Open an issue on our &lt;a href=&quot;https://github.com/rustdelhi/talks/issues&quot;&gt;GitHub&lt;/a&gt; if you would like to give one! For queries and suggestions join our &lt;a href=&quot;https://t.me/rustdelhi&quot;&gt;community channel on Telegram&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-<pubDate>
-2023-08-16 17:28:42 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/295486853/
 </guid>
 </item>
 <item>
@@ -507,36 +410,6 @@ https://www.meetup.com/delhi-elixir-meetup-group/events/294454540/
 </pubDate>
 <guid isPermaLink="true">
 https://www.meetup.com/delhi-elixir-meetup-group/events/294454540/
-</guid>
-</item>
-<item>
-<title>
-Rust Delhi: Meetup #1
-</title>
-<link>
-https://www.meetup.com/rustdelhi/events/293908211/
-</link>
-<description>
-&lt;p&gt;Hi folks, Rust Delhi brings you Delhi's first Rust meetup. Join us on Saturday the 10th of June to meet fellow Rust enthusiasts, share your Rust stories and discuss the future of the Rust Delhi community. We'll accept lightning talks on the spot, if you have something you want to share!&lt;/p&gt;
-&lt;p&gt;Event Agenda (tentative):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kickstarting Rust Delhi (00:10)&lt;/li&gt;
-&lt;li&gt;Introductions, Rust Stories and Why Rust (00:30)&lt;/li&gt;
-&lt;li&gt;“Rust 101” by &lt;a href=&quot;https://twitter.com/gswebspace&quot;&gt;Guinnes Singh&lt;/a&gt; (00:30)&lt;/li&gt;
-&lt;li&gt;“Adventures in porting a UI framework from Haskell to Rust, part 1 - the virtual dom” by &lt;a href=&quot;https://ajnsit.github.io/&quot;&gt;Anupam Jain&lt;/a&gt; (00:30)&lt;/li&gt;
-&lt;li&gt;—— Networking + Food (00:30)&lt;/li&gt;
-&lt;li&gt;Lightning Talks. Choose to give a short talk on the spot. (00:30)&lt;/li&gt;
-&lt;li&gt;Hiring and Pitching. Open to anyone hiring for pula Rust role, looking for a Rust role or otherwise. (00:20)&lt;/li&gt;
-&lt;li&gt;Finding Our Logo with &lt;a href=&quot;https://twitter.com/realpulsar17&quot;&gt;Ishaan Arora&lt;/a&gt; (00:20)&lt;/li&gt;
-&lt;li&gt;Volunteering for Rust Delhi (00:10)&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-<pubDate>
-2023-06-01 13:20:10 +00:00
-</pubDate>
-<guid isPermaLink="true">
-https://www.meetup.com/rustdelhi/events/293908211/
 </guid>
 </item>
 <item>
