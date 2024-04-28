@@ -1,14 +1,14 @@
 [@react.component]
-let make = (~setShowAll, ~setShowOnline) => {
+let make = (~setShowPast, ~setShowOnline) => {
   <>
     {<form>
        <p>
          <label>
            <input
              type_="checkbox"
-             onChange={_ => {setShowAll(prev => !prev)}}
+             onChange={_ => {setShowPast(prev => !prev)}}
            />
-           {React.string("Show All Events")}
+           {React.string("Show Past Events")}
          </label>
          <label>
            <input

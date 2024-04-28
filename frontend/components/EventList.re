@@ -3,7 +3,7 @@ open Lib.Types;
 [@react.component]
 let make = (~events) => {
   let (displayedEvents, setDisplayedEvents) = React.useState(() => [||]);
-  let (showAll, setShowAll) = React.useState(() => false);
+  let (showPast, setShowPast) = React.useState(() => false);
   let (showOnline, setShowOnline) = React.useState(() => false);
 
   React.useEffect3(
@@ -13,7 +13,7 @@ let make = (~events) => {
         |> Array.to_list
         |> List.filter(e => {
              let _now = Js.Date.make();
-             showAll || e.start_time > _now;
+             showPast || e.start_time > _now;
            })
         |> List.filter(e => {
              let _now = Js.Date.make();
@@ -23,7 +23,7 @@ let make = (~events) => {
       setDisplayedEvents(_ => es);
       None;
     },
-    (showAll, showOnline, events),
+    (showPast, showOnline, events),
   );
 
   let eventList = {
@@ -41,7 +41,7 @@ let make = (~events) => {
   };
 
   <>
-    <EventFilter setShowAll setShowOnline />
+    <EventFilter setShowPast setShowOnline />
     {Array.length(displayedEvents) > 0 ? eventList : noEvents}
   </>;
 };
