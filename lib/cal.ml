@@ -13,7 +13,7 @@ let event_to_ical (event : Events.event) =
     | _ -> None
   in
   let summary = event.title in
-  let description = event.description in
+  let description = Events.description_html event in
   let location = Events.venue event in
   let props =
     [
