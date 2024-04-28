@@ -1,5 +1,5 @@
 ---
-name: Update Events and Deploy Site
+name: Update Site
 
 on:
   schedule:
