@@ -51,6 +51,7 @@ jobs:
           git config user.name "Delhi Events Bot"
           git config user.email "punchagan+delhi-events@muse-amuse.in"
           git checkout gh-pages
+          rm -rf assets/
           cp -a _build/default/dist/* .
           git add assets events.* index.html
           git commit -m "Update events data and site" || echo "No changes"
