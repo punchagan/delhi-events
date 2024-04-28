@@ -17,7 +17,7 @@ Verify that generation works correctly
   GEO:37.7749;-122.4194
   SUMMARY:Event 1
   DESCRIPTION:This is event 1
-  $ cat output/index.html
+  $ cat output/index.html |grep -v "Updated:"
   <!DOCTYPE html>
   <html xmlns="http://www.w3.org/1999/xhtml">
    <head><title>Delhi NCR Events</title><meta charset="UTF-8"/>
@@ -71,6 +71,16 @@ Verify that generation works correctly
     <footer>
      <ul class="footer-list"><li><a href="./events.rss">RSS</a></li>
       <li><a href="./events.ics">Calendar</a></li>
+      <li>
+       <img
+        src="https://github.com/punchagan/delhi-events/actions/workflows/update.yml/badge.svg"
+        alt="Site build status"/>
+      </li>
+      <li>
+       <a
+        href="https://github.com/punchagan/delhi-events/actions/workflows/update.yml"
+       </a>
+      </li>
      </ul>
     </footer>
    </body>

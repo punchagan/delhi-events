@@ -33,6 +33,12 @@ let event_to_html (event : Events.event) =
 
 let generate events =
   let events_html = div ~a:[ a_id "app" ] (List.map event_to_html events) in
+  let time_str = format_datetime (Ptime_clock.now ()) in
+  let last_updated = Printf.sprintf "Updated: %s" time_str in
+  let workflow =
+    "https://github.com/punchagan/delhi-events/actions/workflows/update.yml"
+  in
+  let build_svg = workflow ^ "/badge.svg" in
   let page_header =
     header
       [
@@ -52,6 +58,8 @@ let generate events =
           [
             li [ a ~a:[ a_href "./events.rss" ] [ txt "RSS" ] ];
             li [ a ~a:[ a_href "./events.ics" ] [ txt "Calendar" ] ];
+            li [ img ~src:build_svg ~alt:"Site build status" () ];
+            li [ a ~a:[ a_href workflow ] [ txt last_updated ] ];
           ];
       ]
   in
