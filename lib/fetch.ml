@@ -149,7 +149,6 @@ let run events_db =
       urls
   in
   Fiber.all requests;
-  (* FIXME: Filter old events? Probably in the generation phase? *)
   let events_json =
     !events |> List.concat
     |> List.sort (fun (a : Events.event) b ->
