@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "id": "meetup-300774391",
-      "title": "ElixirDelhi May Meetup",
-      "description": "Meet and geek out about Elixir and Functional Programming in the May ElixirDelhi meetup.\n\nSchedule for the day shall be:\n\n\\- Introductions\n\\- Elixir Talks & Discussions\n\\- Snack break\n\\- Hiring & Pitching sessions\n\\- Group photo\n\nPS: don't forget to RSVP [here](https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/) to let us know you'll be coming.",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/",
-      "start": "2024-05-04T13:00:00+05:30",
-      "end": "2024-05-04T17:00:00+05:30",
-      "created": "2024-05-02T08:32:26+05:30",
-      "venue_name": "Center for the Study of Developing Societies(CSDS)",
-      "venue_address": "29, Rajpur Road, Delhi",
-      "location": null
-    },
-    {
       "id": "meetup-300147356",
       "title": "Community Check-in",
       "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
