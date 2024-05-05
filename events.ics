@@ -2,8 +2,18 @@ BEGIN:VCALENDAR
 PRODID:-//Delhi NCR Events//All Events//EN
 VERSION:0.1
 BEGIN:VEVENT
+UID:event-meetup-300774391@delhincr.events
+DTSTAMP:20240505T120930Z
+DTSTART:20240504T073000Z
+DTEND:20240504T113000Z
+SUMMARY:ElixirDelhi May Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming in the May ElixirDelhi meetup.</p>\n<p>Schedule for the day shall be:</p>\n<p>- Introductions\n- Elixir Talks &amp\; Discussions\n- Snack break\n- Hiring &amp\; Pitching sessions\n- Group photo</p>\n<p>PS: don't forget to RSVP <a href="https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/">here</a> to let us know you'll be coming.</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/
+END:VEVENT
+BEGIN:VEVENT
 UID:event-meetup-300147356@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240421T140000Z
 DTEND:20240421T150000Z
 SUMMARY:Community Check-in
@@ -13,7 +23,7 @@ URL:https://www.meetup.com/pydelhi/events/300147356/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300443396@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240420T073000Z
 DTEND:20240420T113000Z
 SUMMARY:PyDelhi April Meetup
@@ -23,7 +33,7 @@ URL:https://www.meetup.com/pydelhi/events/300443396/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299120052@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240414T140000Z
 DTEND:20240414T150000Z
 SUMMARY:Community Check-in
@@ -33,7 +43,7 @@ URL:https://www.meetup.com/pydelhi/events/299120052/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299868931@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240407T140000Z
 DTEND:20240407T150000Z
 SUMMARY:Community Check-in
@@ -43,7 +53,7 @@ URL:https://www.meetup.com/pydelhi/events/299868931/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300053660@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240406T073000Z
 DTEND:20240406T113000Z
 SUMMARY:ElixirDelhi April Meetup
@@ -53,7 +63,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300053660/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299731191@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240331T140000Z
 DTEND:20240331T150000Z
 SUMMARY:Community Check-in
@@ -63,7 +73,7 @@ URL:https://www.meetup.com/pydelhi/events/299731191/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299771772@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240330T083000Z
 DTEND:20240330T113000Z
 SUMMARY:Rust Delhi Meetup #6
@@ -73,7 +83,7 @@ URL:https://www.meetup.com/rustdelhi/events/299771772/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299591379@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240324T140000Z
 DTEND:20240324T150000Z
 SUMMARY:Community Check-in
@@ -83,7 +93,7 @@ URL:https://www.meetup.com/pydelhi/events/299591379/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299440536@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240317T140000Z
 DTEND:20240317T150000Z
 SUMMARY:Community Check-in
@@ -93,7 +103,7 @@ URL:https://www.meetup.com/pydelhi/events/299440536/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298794986@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240316T043000Z
 DTEND:20240316T083000Z
 SUMMARY:Pythonistas and Graphistas: Navigating the World of Graph Databases with Python
@@ -103,7 +113,7 @@ URL:https://www.meetup.com/pydelhi/events/298794986/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299293733@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240310T140000Z
 DTEND:20240310T150000Z
 SUMMARY:Community Check-in
@@ -113,7 +123,7 @@ URL:https://www.meetup.com/pydelhi/events/299293733/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299361821@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240303T140000Z
 DTEND:20240303T150000Z
 SUMMARY:Community Check-in
@@ -123,7 +133,7 @@ URL:https://www.meetup.com/pydelhi/events/299361821/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298864671@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240217T053000Z
 DTEND:20240217T083000Z
 SUMMARY:Meetup #5
@@ -133,7 +143,7 @@ URL:https://www.meetup.com/rustdelhi/events/298864671/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298696186@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240203T053000Z
 DTEND:20240203T093000Z
 SUMMARY:ElixirDelhi February Meetup
@@ -143,7 +153,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298696186/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298306254@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20240106T053000Z
 DTEND:20240106T073000Z
 SUMMARY:ElixirDelhi January Meetup
@@ -153,7 +163,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298306254/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-297652586@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20231216T083000Z
 DTEND:20231216T113000Z
 SUMMARY:Meetup #4
@@ -163,7 +173,7 @@ URL:https://www.meetup.com/rustdelhi/events/297652586/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-297113819@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20231104T073000Z
 DTEND:20231104T103000Z
 SUMMARY:Elixir November Meetup
@@ -173,7 +183,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/297113819/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-296654653@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20231014T040000Z
 DTEND:20231014T073000Z
 SUMMARY:Meetup #3 @ CIC\, DU
@@ -183,7 +193,7 @@ URL:https://www.meetup.com/rustdelhi/events/296654653/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-295486853@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230826T043000Z
 DTEND:20230826T073000Z
 SUMMARY:Meetup #2\, with Functional Programming India
@@ -193,7 +203,7 @@ URL:https://www.meetup.com/rustdelhi/events/295486853/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-295144413@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230805T073000Z
 DTEND:20230805T103000Z
 SUMMARY:Elixir Delhi + FPIndia Combined August Meetup
@@ -203,7 +213,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/295144413/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-294454540@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230701T073000Z
 DTEND:20230701T103000Z
 SUMMARY:Elixir July Meetup
@@ -213,7 +223,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/294454540/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293908211@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230610T063000Z
 DTEND:20230610T093000Z
 SUMMARY:Rust Delhi: Meetup #1
@@ -223,7 +233,7 @@ URL:https://www.meetup.com/rustdelhi/events/293908211/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293826127@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230603T073000Z
 DTEND:20230603T103000Z
 SUMMARY:Elixir June Meetup
@@ -233,7 +243,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/293826127/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293119405@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230506T073000Z
 DTEND:20230506T103000Z
 SUMMARY:Elixir May Meetup
@@ -243,22 +253,12 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/293119405/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-292398752@delhincr.events
-DTSTAMP:20240504T120908Z
+DTSTAMP:20240505T120930Z
 DTSTART:20230408T073000Z
 DTEND:20230408T103000Z
 SUMMARY:Delhi Elixir April Meetup
 DESCRIPTION:<p>- A round of introductions\n- Talk 1: Exploring Nerves - IOT with Elixir by Anuvrat Parashar\n- Talk 2: Vim 101 by Mohit Bansal\n- Hiring and pitching\n- Showcase / Lightning Talks\n- Snacks\n- Group Photo</p>\n
 LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
 URL:https://www.meetup.com/delhi-elixir-meetup-group/events/292398752/
-END:VEVENT
-BEGIN:VEVENT
-UID:event-meetup-291330264@delhincr.events
-DTSTAMP:20240504T120908Z
-DTSTART:20230304T053000Z
-DTEND:20230304T113000Z
-SUMMARY:Elixir Delhi March Meetup 
-DESCRIPTION:<p>Let’s meet and geek out about elixir</p>\n
-LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
-URL:https://www.meetup.com/delhi-elixir-meetup-group/events/291330264/
 END:VEVENT
 END:VCALENDAR
