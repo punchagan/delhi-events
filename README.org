@@ -1,0 +1,17 @@
+#+title: Delhi NCR Events
+
+An Events aggregator for events in the Delhi NCR
+
+The ideas is to provide an aggregation of events that are interesting to me (or
+other tech enthusiasts).
+
+The aggregation currently only pulls from a handful of Meetup groups, but we
+could potentially add more sources for aggregation.
+
+The app is also an experiment in trying Reason based UI along with an OCaml
+"backend" -- we use OCaml to generate the RSS and the Calendar file.
+
+* TODO TODO
+- Use ~server-reason-react~ in the generated static html?
+- Search by title
+- Search by group/organizer
