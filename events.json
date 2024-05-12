@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "id": "meetup-300973362",
+      "title": "PyDelhi May Meetup",
+      "description": "Hey Fellow Pythonistas,\n\nPyDelhi is back with the April edition of our Monthly Meetups 🐍.\nWe have a few familiar and a few new speakers this time around.\n\n***Please cancel your RSVP if you're not attending the Meetup.***\n\n**Agenda:**\n**01:00 - 01:30:** Introduction to PyDelhi\n**01:30 - 02:00:** Create your own Python Library by [Pranav Puri](https://www.linkedin.com/in/kybrdbnd/)\n**02:00 - 02:30:** Networking Break\n**02:30 - 03:30:** Secure Development in Python by [Swati Laxmi](https://www.linkedin.com/in/swatil/)\n**03:30 - 04:30:** Secure Coding in Python by [Shruti Arora](https://www.linkedin.com/in/shrutiiaroraaa/)\n**04:30 - 05:00:** Hiring and Pitching Session & Group Photo\n\nThe venue for this meetup is Cluster Innovation Centre, University of Delhi\nNearest Delhi Metro Station is Vishwavidyalaya (Yellow Line). E-rickshaws are generally available.\n\nRSVP link: [https://www.meetup.com/pydelhi/events/300443396/](https://www.meetup.com/pydelhi/events/300443396/)\nGoogle Maps Link: [https://maps.app.goo.gl/xVvHzVjAkzviKgDp8](https://maps.app.goo.gl/xVvHzVjAkzviKgDp8)\n\nContact Ishaan for any help for directions on the event chat.\n\nIf you have any questions please send us a message on Telegram Group or please DM us on Twitter.\n\nCheers,\nPyDelhi!",
+      "has_markdown": true,
+      "url": "https://www.meetup.com/pydelhi/events/300973362/",
+      "start": "2024-05-18T13:00:00+05:30",
+      "end": "2024-05-18T17:00:00+05:30",
+      "created": "2024-05-12T12:19:50+05:30",
+      "venue_name": "Cluster Innovation Centre, University of Delhi",
+      "venue_address": "GC Narang Road, Delhi",
+      "location": null
+    },
+    {
       "id": "meetup-300774391",
       "title": "ElixirDelhi May Meetup",
       "description": "Meet and geek out about Elixir and Functional Programming in the May ElixirDelhi meetup.\n\nSchedule for the day shall be:\n\n\\- Introductions\n\\- Elixir Talks & Discussions\n\\- Snack break\n\\- Hiring & Pitching sessions\n\\- Group photo\n\nPS: don't forget to RSVP [here](https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/) to let us know you'll be coming.",
