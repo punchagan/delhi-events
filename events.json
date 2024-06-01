@@ -344,19 +344,6 @@
       "venue_name": "Center for the Study of Developing Societies(CSDS)",
       "venue_address": "29, Rajpur Road, Delhi",
       "location": null
-    },
-    {
-      "id": "meetup-292398752",
-      "title": "Delhi Elixir April Meetup",
-      "description": "\\- A round of introductions\n\\- Talk 1: Exploring Nerves \\- IOT with Elixir by Anuvrat Parashar\n\\- Talk 2: Vim 101 by Mohit Bansal\n\\- Hiring and pitching\n\\- Showcase / Lightning Talks\n\\- Snacks\n\\- Group Photo",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/delhi-elixir-meetup-group/events/292398752/",
-      "start": "2023-04-08T13:00:00+05:30",
-      "end": "2023-04-08T16:00:00+05:30",
-      "created": "2023-03-22T11:18:10+05:30",
-      "venue_name": "Center for the Study of Developing Societies(CSDS)",
-      "venue_address": "29, Rajpur Road, Delhi",
-      "location": null
     }
   ]
 }
