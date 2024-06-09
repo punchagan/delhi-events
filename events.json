@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "id": "meetup-301520830",
+      "title": "PyDelhi + Rust Delhi + ILUG-D June Meetup ",
+      "description": "Hey peeps,\n\nPyDelhi is back with the June edition of our Monthly Meetups 🐍. This time it's a combined one with [Rust Delhi](https://www.meetup.com/rustdelhi) and [ILUG-D](https://www.meetup.com/ILUGDelhi/).\n\nAfter all 🐍❤️🦀❤️🐧\n\n***Please cancel your RSVP if you're not attending the Meetup.***\n\n**Agenda:**\n**10:00-10:30:** Introduction to PyDelhi, Rust Delhi and ILUGD\n**10:30-10:50:** Python 1 Liners by [Parampreet Singh](https://www.linkedin.com/in/param302/)\n**10:50-11:10:** Secure Coding in Python by [Swati Laxmi](https://www.linkedin.com/in/swatil/)\n**11:10-11:40:** Networking Break\n**LIGHTNING TALKS**:\n**11:40-11:50:** NetworkX's parallel backend by [Aditi](https://github.com/Schefflera-Arboricola)\n**11:50-12:00:** The scientific side of Python and Open-Source by [Saransh Chopra](https://github.com/Saransh-cpp)\n**12:00-12:50:** Networking Break\n**12:50-1:00:** Group Photo\n\nThe venue for this meetup is Coredge Office Noida.\nNearest Delhi Metro Station is Noida Electronic City(Blue Line).\n\nRSVP link: [https://www.meetup.com/pydelhi/events/300973362/](https://www.meetup.com/pydelhi/events/300973362/)\nGoogle Maps Link: [https://maps.app.goo.gl/xVvHzVjAkzviKgDp8](https://maps.app.goo.gl/xVvHzVjAkzviKgDp8)\n\nContact Ishaan Arora for any help for directions on the event chat.\nPhone: +919971828563\n\nIf you have any questions please send us a message on Telegram Group or please DM us on Twitter.\n\nCheers,\nPyDelhi!",
+      "has_markdown": true,
+      "url": "https://www.meetup.com/pydelhi/events/301520830/",
+      "start": "2024-06-22T10:00:00+05:30",
+      "end": "2024-06-22T13:00:00+05:30",
+      "created": "2024-06-08T09:33:36+05:30",
+      "venue_name": "Coredge.io",
+      "venue_address": "A-44 &45, Noida",
+      "location": null
+    },
+    {
       "id": "meetup-301280916",
       "title": "Elixir Delhi + FPIndia Combined June Meetup",
       "description": "Meet and geek out about Elixir and Functional Programming in this combined Meetup with FPIndia.\n\nSchedule for the day shall be:\n\n\\- Introductions\n\\- Talk 1 by one of our esteemed Elixirists\n\\- Relax and let the compiler have your back: Non-defensive programming by Anupam Jain\n\\- Snack break\n\\- Hiring/pitching sessions\n\\- Group photo",
