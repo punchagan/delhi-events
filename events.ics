@@ -3,17 +3,17 @@ PRODID:-//Delhi NCR Events//All Events//EN
 VERSION:0.1
 BEGIN:VEVENT
 UID:event-meetup-301520830@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240622T043000Z
 DTEND:20240622T073000Z
 SUMMARY:PyRustLin: PyDelhi x Rust Delhi x ILUG-D Meetup 
-DESCRIPTION:<p>Hey peeps\,</p>\n<p>PyDelhi is back with the June edition of our Monthly Meetups 🐍. This time it's a combined one with <a href="https://www.meetup.com/rustdelhi">Rust Delhi</a> and <a href="https://www.meetup.com/ILUGDelhi/">ILUG-D</a>.</p>\n<p>After all 🐍❤️🦀❤️🐧</p>\n<p><em><strong>Please cancel your RSVP if you're not attending the meetup.</strong></em></p>\n<p><strong>Agenda:</strong>\n<strong>10:00-10:30:</strong> Introduction to PyDelhi\, Rust Delhi and ILUGD\n<strong>10:30-10:50:</strong> Python 1 Liners by <a href="https://www.linkedin.com/in/param302/">Parampreet Singh</a>\n<strong>10:50-11:10:</strong> Secure Coding in Python by <a href="https://www.linkedin.com/in/swatil/">Swati Laxmi</a>\n<strong>11:10-11:40:</strong> Networking Break\n<strong>11:40-12:20:</strong> Talks by RustDelhi (TBD)\n<strong>12:20-12:40: LIGHTNING TALKS</strong>:</p>\n<ul>\n<li>NetworkX's parallel backend by <a href="https://github.com/Schefflera-Arboricola">Aditi</a></li>\n<li>The scientific side of Python and Open-Source by <a href="https://github.com/Saransh-cpp">Saransh Chopra</a></li>\n</ul>\n<p><strong>12:40-1:20:</strong> Talks by ILUG-D (TBD)\n<strong>1:20-1:30:</strong> Group Photo</p>\n<p>The venue for this meetup is Coredge.io Office\, Noida.\nNearest Delhi Metro Station is Noida Electronic City (Blue Line)</p>\n<p>RSVP link: <a href="https://www.meetup.com/pydelhi/events/300973362/">https://www.meetup.com/pydelhi/events/300973362/</a>\nGoogle Maps Link: <a href="https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A">https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A</a></p>\n<p>Contact Ishaan Arora for any help for directions on the event chat.\nPhone: +91 9971828563</p>\n<p>If you have any questions please send us a message on Telegram Group or please DM us on Twitter.</p>\n<p>Cheers\,\nPyDelhi!</p>\n
+DESCRIPTION:<p>Hey peeps\,</p>\n<p>PyDelhi is back with the June edition of our Monthly Meetups 🐍. This time it's a combined one with <a href="https://www.meetup.com/rustdelhi">Rust Delhi</a> and <a href="https://www.meetup.com/ILUGDelhi/">ILUG-D</a>.</p>\n<p>After all 🐍❤️🦀❤️🐧</p>\n<p><em><strong>Please cancel your RSVP if you're not attending the meetup.</strong></em></p>\n<p><strong>Agenda:</strong>\n<strong>10:00-10:20:</strong> Introduction to PyDelhi\, Rust Delhi and ILUGD\n<strong>10:20-10:40:</strong> Python 1 Liners by <a href="https://www.linkedin.com/in/param302/">Parampreet Singh</a>\n<strong>10:40-11:00:</strong> Secure Coding in Python by <a href="https://www.linkedin.com/in/swatil/">Swati Laxmi</a>\n<strong>11:00-11:40:</strong> Talks by ILUG-D (TBD)\n<strong>11:40-11:50:</strong> Hiring &amp\; Pitching Session\n<strong>11:50-12:00:</strong> Group Photo\n<strong>12:00-12:30:</strong> Networking Break\n<strong>12:30-01:10:</strong> Heredity and Evolution in Rust by Tanveer\n<strong>01:10-01:20:</strong> NetworkX's parallel backend by <a href="https://github.com/Schefflera-Arboricola">Aditi</a>\n<strong>01:20-01:30:</strong> The scientific side of Python and Open-Source by <a href="https://github.com/Saransh-cpp">Saransh Chopra</a>\n<strong>01:30-01:35:</strong> Closing and see you next time!</p>\n<p>The venue for this meetup is <strong>Coredge.io Office\, Noida</strong>\nNearest Delhi Metro Station is <strong>Noida Electronic City (Blue Line)</strong> and the venue is <strong>walking distance</strong> from the metro</p>\n<p>RSVP link: <a href="https://www.meetup.com/pydelhi/events/300973362/">https://www.meetup.com/pydelhi/events/300973362/</a>\nGoogle Maps Link: <a href="https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A">https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A</a></p>\n<p>Contact Ishaan Arora for any help for directions on the event chat.\nPhone: +91 9971828563</p>\n<p>If you have any questions please send us a message on <a href="https://chat.whatsapp.com/LwIHShwtZtB2rgK2x66AsI">WhatsApp Group</a>\, <a href="https://telegram.me/PyDelhi_official">Telegram Group</a> or please DM us on <a href="https://x.com/PyDelhi">Twitter</a>.</p>\n<p>Cheers\,\nPyDelhi!</p>\n
 LOCATION:Venue: Coredge.io\, A-44 &45\, Noida
 URL:https://www.meetup.com/pydelhi/events/301520830/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-301280916@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240601T073000Z
 DTEND:20240601T103000Z
 SUMMARY:Elixir Delhi + FPIndia Combined June Meetup
@@ -23,7 +23,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/301280916/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300973362@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240518T073000Z
 DTEND:20240518T113000Z
 SUMMARY:PyDelhi May Meetup
@@ -33,7 +33,7 @@ URL:https://www.meetup.com/pydelhi/events/300973362/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300774391@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240504T073000Z
 DTEND:20240504T113000Z
 SUMMARY:ElixirDelhi May Meetup
@@ -43,7 +43,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300147356@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240421T140000Z
 DTEND:20240421T150000Z
 SUMMARY:Community Check-in
@@ -53,7 +53,7 @@ URL:https://www.meetup.com/pydelhi/events/300147356/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300443396@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240420T073000Z
 DTEND:20240420T113000Z
 SUMMARY:PyDelhi April Meetup
@@ -63,7 +63,7 @@ URL:https://www.meetup.com/pydelhi/events/300443396/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299120052@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240414T140000Z
 DTEND:20240414T150000Z
 SUMMARY:Community Check-in
@@ -73,7 +73,7 @@ URL:https://www.meetup.com/pydelhi/events/299120052/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299868931@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240407T140000Z
 DTEND:20240407T150000Z
 SUMMARY:Community Check-in
@@ -83,7 +83,7 @@ URL:https://www.meetup.com/pydelhi/events/299868931/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-300053660@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240406T073000Z
 DTEND:20240406T113000Z
 SUMMARY:ElixirDelhi April Meetup
@@ -93,7 +93,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300053660/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299731191@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240331T140000Z
 DTEND:20240331T150000Z
 SUMMARY:Community Check-in
@@ -103,7 +103,7 @@ URL:https://www.meetup.com/pydelhi/events/299731191/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299771772@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240330T083000Z
 DTEND:20240330T113000Z
 SUMMARY:Rust Delhi Meetup #6
@@ -113,7 +113,7 @@ URL:https://www.meetup.com/rustdelhi/events/299771772/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299591379@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240324T140000Z
 DTEND:20240324T150000Z
 SUMMARY:Community Check-in
@@ -123,7 +123,7 @@ URL:https://www.meetup.com/pydelhi/events/299591379/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299440536@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240317T140000Z
 DTEND:20240317T150000Z
 SUMMARY:Community Check-in
@@ -133,7 +133,7 @@ URL:https://www.meetup.com/pydelhi/events/299440536/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298794986@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240316T043000Z
 DTEND:20240316T083000Z
 SUMMARY:Pythonistas and Graphistas: Navigating the World of Graph Databases with Python
@@ -143,7 +143,7 @@ URL:https://www.meetup.com/pydelhi/events/298794986/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-299293733@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240310T140000Z
 DTEND:20240310T150000Z
 SUMMARY:Community Check-in
@@ -153,7 +153,7 @@ URL:https://www.meetup.com/pydelhi/events/299293733/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298864671@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240217T053000Z
 DTEND:20240217T083000Z
 SUMMARY:Meetup #5
@@ -163,7 +163,7 @@ URL:https://www.meetup.com/rustdelhi/events/298864671/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298696186@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240203T053000Z
 DTEND:20240203T093000Z
 SUMMARY:ElixirDelhi February Meetup
@@ -173,7 +173,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298696186/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-298306254@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20240106T053000Z
 DTEND:20240106T073000Z
 SUMMARY:ElixirDelhi January Meetup
@@ -183,7 +183,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298306254/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-297652586@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20231216T083000Z
 DTEND:20231216T113000Z
 SUMMARY:Meetup #4
@@ -193,7 +193,7 @@ URL:https://www.meetup.com/rustdelhi/events/297652586/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-297113819@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20231104T073000Z
 DTEND:20231104T103000Z
 SUMMARY:Elixir November Meetup
@@ -203,7 +203,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/297113819/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-296654653@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20231014T040000Z
 DTEND:20231014T073000Z
 SUMMARY:Meetup #3 @ CIC\, DU
@@ -213,7 +213,7 @@ URL:https://www.meetup.com/rustdelhi/events/296654653/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-295486853@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230826T043000Z
 DTEND:20230826T073000Z
 SUMMARY:Meetup #2\, with Functional Programming India
@@ -223,7 +223,7 @@ URL:https://www.meetup.com/rustdelhi/events/295486853/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-295144413@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230805T073000Z
 DTEND:20230805T103000Z
 SUMMARY:Elixir Delhi + FPIndia Combined August Meetup
@@ -233,7 +233,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/295144413/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-294454540@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230701T073000Z
 DTEND:20230701T103000Z
 SUMMARY:Elixir July Meetup
@@ -243,7 +243,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/294454540/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293908211@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230610T063000Z
 DTEND:20230610T093000Z
 SUMMARY:Rust Delhi: Meetup #1
@@ -253,7 +253,7 @@ URL:https://www.meetup.com/rustdelhi/events/293908211/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293826127@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230603T073000Z
 DTEND:20230603T103000Z
 SUMMARY:Elixir June Meetup
@@ -263,7 +263,7 @@ URL:https://www.meetup.com/delhi-elixir-meetup-group/events/293826127/
 END:VEVENT
 BEGIN:VEVENT
 UID:event-meetup-293119405@delhincr.events
-DTSTAMP:20240618T121237Z
+DTSTAMP:20240619T121154Z
 DTSTART:20230506T073000Z
 DTEND:20230506T103000Z
 SUMMARY:Elixir May Meetup
