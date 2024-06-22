@@ -189,20 +189,6 @@
       "location": null
     },
     {
-      "id": "meetup-299293733",
-      "title": "Community Check-in",
-      "description": "Hey Everyone, This is our weekly community check-in, If you want to volunteer or you would like to know how things work in general (behind the scenes) make sure to join this meeting.\n\nIf you're not in the PyDelhi Telegram Group please message any organizer they will add you to the Group.\n\n\\~ PyDelhi Team",
-      "has_markdown": true,
-      "is_online": true,
-      "url": "https://www.meetup.com/pydelhi/events/299293733/",
-      "start": "2024-03-10T19:30:00+05:30",
-      "end": "2024-03-10T20:30:00+05:30",
-      "created": "2024-02-19T21:21:05+05:30",
-      "venue_name": "Online event",
-      "venue_address": "",
-      "location": null
-    },
-    {
       "id": "meetup-298864671",
       "title": "Meetup #5",
       "description": "Rust Delhi brings you another meetup, this time at IIT Delhi with our sponsor Aftershoot.co.\n\nJoin us on Saturday, 17th February for a meetup centered around Rust and it's ecosystem.\n\nWe're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our [GitHub](https://github.com/rustdelhi/talks/issues) if you would like to give one! For queries and suggestions join our [community channel on Telegram](https://t.me/rustdelhi).",
