@@ -1,4 +1,164 @@
 BEGIN:VCALENDAR
 PRODID:-//Delhi NCR Events//All Events//EN
 VERSION:0.1
+BEGIN:VEVENT
+UID:event-meetup-301280916@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240601T073000Z
+DTEND:20240601T103000Z
+SUMMARY:Elixir Delhi + FPIndia Combined June Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming in this combined Meetup with FPIndia.</p>\n<p>Schedule for the day shall be:</p>\n<p>- Introductions\n- Talk 1 by one of our esteemed Elixirists\n- Relax and let the compiler have your back: Non-defensive programming by Anupam Jain\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/301280916/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-300774391@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240504T073000Z
+DTEND:20240504T113000Z
+SUMMARY:ElixirDelhi May Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming in the May ElixirDelhi meetup.</p>\n<p>Schedule for the day shall be:</p>\n<p>- Introductions\n- Elixir Talks &amp\; Discussions\n- Snack break\n- Hiring &amp\; Pitching sessions\n- Group photo</p>\n<p>PS: don't forget to RSVP <a href="https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/">here</a> to let us know you'll be coming.</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300774391/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-300053660@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240406T073000Z
+DTEND:20240406T113000Z
+SUMMARY:ElixirDelhi April Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir\, Functional Programming and Linux in this collaborative meetup with <a href="https://linuxdelhi.org/">Indian Linux Users Group - Delhi (ILUG-D)</a>.</p>\n<p>Schedule for the day shall be:</p>\n<p>- Introductions\n- Elixir Talks &amp\; Discussions\n- Linux Talks &amp\; Discussions\n- Snack break\n- Hiring &amp\; Pitching sessions\n- Group photo</p>\n<p>PS: don't forget to RSVP <a href="https://www.meetup.com/delhi-elixir-meetup-group/events/300053660/">here</a> to let us know you'll be coming.</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/300053660/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-299771772@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240330T083000Z
+DTEND:20240330T113000Z
+SUMMARY:Rust Delhi Meetup #6
+DESCRIPTION:<p>Rust Delhi brings you another meetup\, this time at Avanta\, Statesman House\, Connaught Place with our event sponsor Rust Foundation.</p>\n<p>Join us on Saturday\, 30th March for a meetup centered around Rust and its ecosystem.</p>\n<p>We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our <a href="https://github.com/rustdelhi/talks/issues">GitHub</a> if you would like to give one! For queries and suggestions join our <a href="https://t.me/rustdelhi">community channel on Telegram</a>.</p>\n
+LOCATION:Venue: Avanta Business Centre\, 402\, Barakhamba Rd\, New Delhi
+URL:https://www.meetup.com/rustdelhi/events/299771772/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-298864671@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240217T053000Z
+DTEND:20240217T083000Z
+SUMMARY:Meetup #5
+DESCRIPTION:<p>Rust Delhi brings you another meetup\, this time at IIT Delhi with our sponsor Aftershoot.co.</p>\n<p>Join us on Saturday\, 17th February for a meetup centered around Rust and it's ecosystem.</p>\n<p>We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our <a href="https://github.com/rustdelhi/talks/issues">GitHub</a> if you would like to give one! For queries and suggestions join our <a href="https://t.me/rustdelhi">community channel on Telegram</a>.</p>\n
+LOCATION:Venue: Research and Innovation Park (RNI) - IIT DELHI\, S Ave St\, New Delhi
+URL:https://www.meetup.com/rustdelhi/events/298864671/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-298696186@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240203T053000Z
+DTEND:20240203T093000Z
+SUMMARY:ElixirDelhi February Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:</p>\n<p>- Introductions\n- Talk 1 - TBD\n- Talk 1 - TBD\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298696186/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-298306254@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20240106T053000Z
+DTEND:20240106T073000Z
+SUMMARY:ElixirDelhi January Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:</p>\n<p>- Introductions\n- BoF - gather\, interact\, and engage in discussions with fellow Elixirists\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/298306254/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-297652586@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20231216T083000Z
+DTEND:20231216T113000Z
+SUMMARY:Meetup #4
+DESCRIPTION:<p>Rust Delhi brings you another meetup\, this time at Amigo Coworking Spaces in Noida sector 8. Join us on Saturday\, 16th December for a meetup centered around Rust and it's ecosystem.</p>\n<p>We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our <a href="https://github.com/rustdelhi/talks/issues">GitHub</a> if you would like to give one! For queries and suggestions join our <a href="https://t.me/rustdelhi">community channel on Telegram</a>.</p>\n
+LOCATION:Venue: Amigo\, C25\, Noida
+URL:https://www.meetup.com/rustdelhi/events/297652586/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-297113819@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20231104T073000Z
+DTEND:20231104T103000Z
+SUMMARY:Elixir November Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:</p>\n<p>- Introductions\n- Talk 1: Process memory in ERTS by <a href="https://www.linkedin.com/in/akshit-garg-05544623b/">Akshit Garg</a>\n- Snack break\n- Talk 2: Erlang's Origin to Modern Day Application by <a href="https://www.linkedin.com/in/zorawarpurohit/">Zorawar Purohit</a>\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/297113819/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-296654653@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20231014T040000Z
+DTEND:20231014T073000Z
+SUMMARY:Meetup #3 @ CIC\, DU
+DESCRIPTION:<p>Rust Delhi brings you another meetup\, this time at <a href="https://cic.du.ac.in/">Cluster Innovation Center\, Delhi University</a>. Join us this Saturday\, October the 14th for a meetup centered around Rust and it's ecosystem.</p>\n<p>We're actively looking to schedule talks and discussions on Rust and it's ecosystem. Open an issue on our <a href="https://github.com/rustdelhi/talks/issues">GitHub</a> if you would like to give one! For queries and suggestions join our <a href="https://t.me/rustdelhi">community channel on Telegram</a>.</p>\n
+LOCATION:Venue: Cluster Innovation Centre\, Rugby Sevens Building\, University Stadium\, University of Delhi\, G.C Narang Marg\, Delhi\, 110007\, Delhi
+URL:https://www.meetup.com/rustdelhi/events/296654653/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-295486853@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230826T043000Z
+DTEND:20230826T073000Z
+SUMMARY:Meetup #2\, with Functional Programming India
+DESCRIPTION:<p>Rust Delhi brings you another meetup\, this time in collaboration with <a href="https://functionalprogramming.in/">FPIndia</a>. Join us this August the 26th for a meetup centered around <strong>Concurrency Patterns</strong>.</p>\n<p>We're actively looking to schedule talks and discussions on concurrency in Rust and other languages. Open an issue on our <a href="https://github.com/rustdelhi/talks/issues">GitHub</a> if you would like to give one! For queries and suggestions join our <a href="https://t.me/rustdelhi">community channel on Telegram</a>.</p>\n
+LOCATION:Venue: Avanta Coworking Space in Gurgaon\, National Highway 8\, Gurugram
+URL:https://www.meetup.com/rustdelhi/events/295486853/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-295144413@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230805T073000Z
+DTEND:20230805T103000Z
+SUMMARY:Elixir Delhi + FPIndia Combined August Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. This time it'll be a combined Meetup with FPIndia.</p>\n<p>Schedule for the day shall be:</p>\n<p>- Introductions\n- Concurrency Basics in Elixir by <a href="https://twitter.com/bhanuvrat">Anuvrat Parashar</a>\n- Concurrency Basics in Haskell by <a href="https://functional.cafe/@haskman">Anupam Jain</a>\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/295144413/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-294454540@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230701T073000Z
+DTEND:20230701T103000Z
+SUMMARY:Elixir July Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:</p>\n<p>- Introductions\n- Talk 1: TBD\n- Talk 2: TBD\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/294454540/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-293908211@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230610T063000Z
+DTEND:20230610T093000Z
+SUMMARY:Rust Delhi: Meetup #1
+DESCRIPTION:<p>Hi folks\, Rust Delhi brings you Delhi's first Rust meetup. Join us on Saturday the 10th of June to meet fellow Rust enthusiasts\, share your Rust stories and discuss the future of the Rust Delhi community. We'll accept lightning talks on the spot\, if you have something you want to share!</p>\n<p>Event Agenda (tentative):</p>\n<ul>\n<li>Kickstarting Rust Delhi (00:10)</li>\n<li>Introductions\, Rust Stories and Why Rust (00:30)</li>\n<li>“Rust 101” by <a href="https://twitter.com/gswebspace">Guinnes Singh</a> (00:30)</li>\n<li>“Adventures in porting a UI framework from Haskell to Rust\, part 1 - the virtual dom” by <a href="https://ajnsit.github.io/">Anupam Jain</a> (00:30)</li>\n<li>—— Networking + Food (00:30)</li>\n<li>Lightning Talks. Choose to give a short talk on the spot. (00:30)</li>\n<li>Hiring and Pitching. Open to anyone hiring for pula Rust role\, looking for a Rust role or otherwise. (00:20)</li>\n<li>Finding Our Logo with <a href="https://twitter.com/realpulsar17">Ishaan Arora</a> (00:20)</li>\n<li>Volunteering for Rust Delhi (00:10)</li>\n</ul>\n
+LOCATION:Venue: Research and Innovation Park\, IIT Delhi\, Research and Innovation Park\, IIT Delhi\, Hauz Khas\,\, New Delhi
+URL:https://www.meetup.com/rustdelhi/events/293908211/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-293826127@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230603T073000Z
+DTEND:20230603T103000Z
+SUMMARY:Elixir June Meetup
+DESCRIPTION:<p>Meet and geek out about Elixir and Functional Programming. Schedule for the day shall be:</p>\n<p>- Introductions\n- Talk 1: TBD\n- Talk 2: TBD\n- Snack break\n- Hiring/pitching sessions\n- Group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/293826127/
+END:VEVENT
+BEGIN:VEVENT
+UID:event-meetup-293119405@delhincr.events
+DTSTAMP:20240626T121151Z
+DTSTART:20230506T073000Z
+DTEND:20230506T103000Z
+SUMMARY:Elixir May Meetup
+DESCRIPTION:<p>Meet and geek out about elixir. Schedule for the day shall be:</p>\n<p>- Introductions\n- talk 1: Exploring Nerves project part 2 - by Anuvrat Parashar\n- talk 2: TBD\n- snack break\n- hiring / pitching sessions\n- group photo</p>\n
+LOCATION:Venue: Center for the Study of Developing Societies(CSDS)\, 29\, Rajpur Road\, Delhi
+URL:https://www.meetup.com/delhi-elixir-meetup-group/events/293119405/
+END:VEVENT
 END:VCALENDAR
