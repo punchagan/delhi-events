@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "id": "meetup-302169773",
+      "title": "ElixirDelhi July Meetup",
+      "description": "Meet and geek out about Elixir and Functional Programming in the July ElixirDelhi meetup.\n\nSchedule for the day shall be:\n\n\\- Introductions\n\\- Elixir Talks & Discussions\n\\- Snack break\n\\- Hiring & Pitching sessions\n\\- Group photo\n\nPS: don't forget to RSVP [here](https://www.meetup.com/delhi-elixir-meetup-group/events/302169773/) to let us know you'll be coming.",
+      "has_markdown": true,
+      "url": "https://www.meetup.com/delhi-elixir-meetup-group/events/302169773/",
+      "start": "2024-07-13T13:00:00+05:30",
+      "end": "2024-07-13T17:00:00+05:30",
+      "created": "2024-07-11T08:32:56+05:30",
+      "venue_name": "Center for the Study of Developing Societies(CSDS)",
+      "venue_address": "29, Rajpur Road, Delhi",
+      "location": null
+    },
+    {
       "id": "meetup-301520830",
       "title": "PyRustLin: PyDelhi x Rust Delhi x ILUG-D Meetup ",
       "description": "Hey peeps,\n\nPyDelhi is back with the June edition of our Monthly Meetups 🐍. This time it's a combined one with Rust Delhi and ILUG-D\n\nAfter all 🐍❤️🦀❤️🐧\n_Please cancel your RSVP if you're not attending the meetup._\n\n**Agenda:**\n**10:00-10:20:** Introduction to PyDelhi, Rust Delhi and ILUGD\n**10:20-10:40:** Python 1 Liners by Parampreet Singh\n**10:40-11:00:** Secure Coding in Python by Swati Laxmi\n**11:00-11:40:** \"Intro to Elixir\" by Anuvrat Parashar\n**11:40-11:50:** Hiring & Pitching Session\n**11:50-12:00:** Group Photo\n**12:00-12:30:** Networking Break\n**12:30-01:10:** Heredity and Evolution in Rust by Tanveer\n**01:10-01:20:** NetworkX's parallel backend by Aditi\n**01:20-01:30:** The scientific side of Python and Open-Source by Saransh Chopra\n**01:30-01:35:** Closing and see you next time!\n\nThe venue for this meetup is Coredge.io Office, Noida.\nNearest Delhi Metro Station is Noida Electronic City (Blue Line) and the venue is walking distance from the metro\n\nRSVP link: [https://www.meetup.com/pydelhi/events/300973362/](https://www.meetup.com/pydelhi/events/300973362/ )\nGoogle Maps Link: [https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A](https://maps.app.goo.gl/ZEUZKA7Y6XsAF3Q6A)\n\nContact Ishaan Arora for any help for directions on the event chat.\nPhone: +91 9971828563\n\nIf you have any questions please send us a message on WhatsApp Group, Telegram Group or please DM us on Twitter\n\nCheers,\nPyDelhi!",
@@ -327,19 +340,6 @@
       "start": "2023-06-03T13:00:00+05:30",
       "end": "2023-06-03T16:00:00+05:30",
       "created": "2023-05-28T23:10:28+05:30",
-      "venue_name": "Center for the Study of Developing Societies(CSDS)",
-      "venue_address": "29, Rajpur Road, Delhi",
-      "location": null
-    },
-    {
-      "id": "meetup-293119405",
-      "title": "Elixir May Meetup",
-      "description": "Meet and geek out about elixir. Schedule for the day shall be:\n\n\\- Introductions\n\\- talk 1: Exploring Nerves project part 2 \\- by Anuvrat Parashar\n\\- talk 2: TBD\n\\- snack break\n\\- hiring / pitching sessions\n\\- group photo",
-      "has_markdown": true,
-      "url": "https://www.meetup.com/delhi-elixir-meetup-group/events/293119405/",
-      "start": "2023-05-06T13:00:00+05:30",
-      "end": "2023-05-06T16:00:00+05:30",
-      "created": "2023-04-25T11:57:48+05:30",
       "venue_name": "Center for the Study of Developing Societies(CSDS)",
       "venue_address": "29, Rajpur Road, Delhi",
       "location": null
