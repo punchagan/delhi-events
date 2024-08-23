@@ -63,7 +63,11 @@ let meetup_event_to_event ~venues event =
   let start_time = get_time_opt event "dateTime" in
   let end_time = get_time_opt event "endTime" in
   let created_time = get_time_opt event "createdTime" in
-  let venue_ref = member "venue" event |> member "__ref" in
+  let venue_ref =
+    match member "venue" event with
+    | `Assoc _ as m -> member "__ref" m
+    | _ -> `Null
+  in
   let venue_id =
     match venue_ref with
     | `String venue_id -> (
